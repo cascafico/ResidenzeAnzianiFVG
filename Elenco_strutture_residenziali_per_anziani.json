@@ -1,0 +1,3197 @@
+[
+   {
+      "id"  : 0,
+      "lat" : 45.6514233,
+      "lon" : 13.7759104,
+      "tags" : {    
+         "name" : "Casa Anna 1",
+         "operator" : null,
+         "phone" : "+39 040 631020",
+         "fax" : "+39 040 631020",
+         "email" : "info@casarosannats.it",
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS1 - Triestina, distretto 1.2 Sud",
+         "capacity" : "18",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 1,
+      "lat" : 46.206878,
+      "lon" : 13.1190256,
+      "tags" : {    
+         "name" : "Centro anziani Buja",
+         "operator" : "Comune di Buja ",
+         "phone" : "+39 0432 964421",
+         "fax" : "+39 0432 964422",
+         "email" : null,
+         "description" : "Casa albergo, pubblica comunale, non convenzionata con SSR; ASS4 - Medio Friuli, distretto 4.1 S.Daniele",
+         "capacity" : "64",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "assisted_living"
+         }
+   },
+   {
+      "id"  : 2,
+      "lat" : 45.64951,
+      "lon" : 13.775283,
+      "tags" : {    
+         "name" : "Ad Maiores",
+         "operator" : null,
+         "phone" : "+39 040 638200",
+         "fax" : "+39 040 3474091",
+         "email" : "tizianakert@gmail.com",
+         "description" : "Residenza polifunzionale con modulo fascia A, privata di mercato, convenzionata con SSR; ASS1 - Triestina, distretto 1.2 Sud",
+         "capacity" : "48",
+         "capacity:disabled" : null,
+         "social_facility:for" : null,
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 3,
+      "lat" : 45.6476237,
+      "lon" : 13.7789577,
+      "tags" : {    
+         "name" : "Anni d'argento",
+         "operator" : null,
+         "phone" : "+39 040 636258",
+         "fax" : "+39 040 636258",
+         "email" : "annidiargento@libero.it",
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS1 - Triestina, distretto 1.4 Nord",
+         "capacity" : "15",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 4,
+      "lat" : 45.8104323,
+      "lon" : 13.5324452,
+      "tags" : {    
+         "name" : "Casa alloggio 2000",
+         "operator" : null,
+         "phone" : "+39 0481 40005",
+         "fax" : null,
+         "email" : null,
+         "description" : "Residenza polifunzionale, privata sociale, non convenzionata con SSR; ASS2 - Isontina, distretto 2.2 Basso Isontino",
+         "capacity" : "10",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 5,
+      "lat" : 45.6469455,
+      "lon" : 13.7843493,
+      "tags" : {    
+         "name" : "ASP ITIS",
+         "operator" : "ASP ITIS",
+         "phone" : "+39 040 3736210",
+         "fax" : "+39 040 3736220",
+         "email" : "segreteria@itis.it",
+         "description" : "Residenza protetta, pubblica ASP, convenzionata con SSR; ASS1 - Triestina, distretto 1.2 Sud",
+         "capacity" : "411",
+         "capacity:disabled" : "411",
+         "social_facility:for" : "disabled",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 6,
+      "lat" : 46.0685254,
+      "lon" : 13.239846054479447,
+      "tags" : {    
+         "name" : "La Quiete",
+         "operator" : "La Quiete",
+         "phone" : "+39 0432 886211",
+         "fax" : "+39 0432 26460",
+         "email" : "segreteria@laquieteudine.it",
+         "description" : "Residenza ad utenza diversificata, pubblica ASP, convenzionata con SSR; ASS4 - Medio Friuli, distretto 4.5 Udine",
+         "capacity" : "445",
+         "capacity:disabled" : "431",
+         "social_facility:for" : "senior;disabled",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 7,
+      "lat" : 45.6514233,
+      "lon" : 13.7759104,
+      "tags" : {    
+         "name" : "Casa Anna 2",
+         "operator" : null,
+         "phone" : "+39 040 631020",
+         "fax" : "+39 040 631020",
+         "email" : "triesteamministrazione@societadolce.it",
+         "description" : "Residenza polifunzionale, privata sociale, non convenzionata con SSR; ASS1 - Triestina, distretto 1.2 Sud",
+         "capacity" : "23",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 8,
+      "lat" : 45.6548625,
+      "lon" : 13.7996591,
+      "tags" : {    
+         "name" : "Casa della famiglia della Giovane Mater Dei",
+         "operator" : null,
+         "phone" : "+39 040 53580",
+         "fax" : "+39 040 350441",
+         "email" : "mater.dei@tiscali.it",
+         "description" : "Casa albergo, privata sociale, non convenzionata con SSR; ASS1 - Triestina, distretto 1.4 Nord",
+         "capacity" : "88",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "assisted_living"
+         }
+   },
+   {
+      "id"  : 9,
+      "lat" : 45.6302603,
+      "lon" : 13.7812021,
+      "tags" : {    
+         "name" : "Casa Emmaus",
+         "operator" : null,
+         "phone" : "+39 040 3882111",
+         "fax" : "+39 040 3882600",
+         "email" : "casa.emmaus@libero.it",
+         "description" : "Residenza protetta, privata sociale, convenzionata con SSR; ASS1 - Triestina, distretto 1.3 Est",
+         "capacity" : "122",
+         "capacity:disabled" : "122",
+         "social_facility:for" : "disabled",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 10,
+      "lat" : 45.6627968,
+      "lon" : 13.806988,
+      "tags" : {    
+         "name" : "Casa Fiorita",
+         "operator" : null,
+         "phone" : "+39 040 55193",
+         "fax" : "+39 040 55193",
+         "email" : "pbonazza@hotmail.it",
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS1 - Triestina, distretto 1.4 Nord",
+         "capacity" : "20",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 11,
+      "lat" : 45.6909744,
+      "lon" : 13.7762076,
+      "tags" : {    
+         "name" : "Casa Mario Capon",
+         "operator" : "Comune di Trieste",
+         "phone" : "+39 040 211484",
+         "fax" : "+39 040 214186",
+         "email" : "casa_riposo_capon@comune.trieste.it",
+         "description" : "Casa albergo, pubblica comunale, non convenzionata con SSR; ASS1 - Triestina, distretto 1.1 Ovest",
+         "capacity" : "25",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "assisted_living"
+         }
+   },
+   {
+      "id"  : 12,
+      "lat" : 45.6469455,
+      "lon" : 13.7843493,
+      "tags" : {    
+         "name" : "Casa Rusconi ASP",
+         "operator" : "Casa Rusconi ASP",
+         "phone" : "+39 040 3736303",
+         "fax" : null,
+         "email" : "segreteria@itis.it",
+         "description" : "Comunità alloggio, pubblica ASP, non convenzionata con SSR; ASS1 - Triestina, distretto 1.2 Sud",
+         "capacity" : "30",
+         "capacity:disabled" : null,
+         "social_facility:for" : null,
+         "social_facility" : "group_home"
+         }
+   },
+   {
+      "id"  : 13,
+      "lat" : 45.6437799,
+      "lon" : 13.8195228,
+      "tags" : {    
+         "name" : "Centro per l'anziano",
+         "operator" : "Comune di Trieste",
+         "phone" : "+39 040 910252",
+         "fax" : "+39 040 9149252",
+         "email" : "Amministrazione_CPA@comune.trieste.it",
+         "description" : "Residenza ad utenza diversificata, pubblica comunale, convenzionata con SSR; ASS1 - Triestina, distretto 1.4 Nord",
+         "capacity" : "206",
+         "capacity:disabled" : "120",
+         "social_facility:for" : "senior;disabled",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 14,
+      "lat" : 45.7503965,
+      "lon" : 13.68592460763853,
+      "tags" : {    
+         "name" : "Fiori del Carso",
+         "operator" : null,
+         "phone" : "+39 040 3784300",
+         "fax" : "+39 040 3784313",
+         "email" : "fiori@pinetadelcarso.it",
+         "description" : "Residenza polifunzionale con modulo fascia A, privata di mercato, convenzionata con SSR; ASS1 - Triestina, distretto 1.1 Ovest",
+         "capacity" : "57",
+         "capacity:disabled" : null,
+         "social_facility:for" : null,
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 15,
+      "lat" : 45.8104323,
+      "lon" : 13.5324452,
+      "tags" : {    
+         "name" : "I.S.A.",
+         "operator" : null,
+         "phone" : "+39 0481 412983",
+         "fax" : "+39 0481 412983",
+         "email" : "info@casapensioneisa.it",
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS2 - Isontina, distretto 2.2 Basso Isontino",
+         "capacity" : "23",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 16,
+      "lat" : 45.9102743,
+      "lon" : 13.2992636,
+      "tags" : {    
+         "name" : "Ianus",
+         "operator" : null,
+         "phone" : "+39 0432 924132",
+         "fax" : "+39 0432 933001",
+         "email" : "ianus.segreteria@societadolce.it",
+         "description" : "Residenza polifunzionale con modulo fascia A, privata sociale, convenzionata con SSR; ASS5 - Bassa Friulana, distretto 5.1 Est",
+         "capacity" : "60",
+         "capacity:disabled" : null,
+         "social_facility:for" : null,
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 17,
+      "lat" : 45.6404365,
+      "lon" : 13.784536,
+      "tags" : {    
+         "name" : "La  Primula",
+         "operator" : null,
+         "phone" : "+39 040 369575",
+         "fax" : "+39 040 369575",
+         "email" : "laprimulatrieste@libero.it",
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS1 - Triestina, distretto 1.2 Sud",
+         "capacity" : "16",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 18,
+      "lat" : 45.6497816,
+      "lon" : 13.7754927,
+      "tags" : {    
+         "name" : "La Fenice",
+         "operator" : null,
+         "phone" : "+39 040 636666",
+         "fax" : "+39 040 3723360",
+         "email" : "rottacorporation@gmail.com",
+         "description" : "Residenza polifunzionale con modulo fascia A, privata di mercato, convenzionata con SSR; ASS1 - Triestina, distretto 1.2 Sud",
+         "capacity" : "38",
+         "capacity:disabled" : null,
+         "social_facility:for" : null,
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 19,
+      "lat" : 45.6842504,
+      "lon" : 13.7941698,
+      "tags" : {    
+         "name" : "La Meridiana",
+         "operator" : null,
+         "phone" : "+39 040 211511",
+         "fax" : "+39 040 211511",
+         "email" : "cdrlameridiana@alice.it",
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS1 - Triestina, distretto 1.1 Ovest",
+         "capacity" : "25",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 20,
+      "lat" : 45.6497816,
+      "lon" : 13.7754927,
+      "tags" : {    
+         "name" : "La Perla",
+         "operator" : null,
+         "phone" : "+39 040 636666",
+         "fax" : "+39 040 3723360",
+         "email" : "rottacorporation@gmail.com",
+         "description" : "Residenza polifunzionale con modulo fascia A, privata di mercato, convenzionata con SSR; ASS1 - Triestina, distretto 1.2 Sud",
+         "capacity" : "34",
+         "capacity:disabled" : null,
+         "social_facility:for" : null,
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 21,
+      "lat" : 45.6562004,
+      "lon" : 13.7730301,
+      "tags" : {    
+         "name" : "La Primula 2",
+         "operator" : null,
+         "phone" : "+39 040 661764",
+         "fax" : "+39 040 661764",
+         "email" : "laprimulatrieste@libero.it",
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS1 - Triestina, distretto 1.2 Sud",
+         "capacity" : "14",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 22,
+      "lat" : 45.6527528,
+      "lon" : 13.7808515,
+      "tags" : {    
+         "name" : "La Roccia di Milana Mitic & C.",
+         "operator" : null,
+         "phone" : "+39 040 370774",
+         "fax" : "+39 040 370774",
+         "email" : "larocciasas@pec.cgn.it",
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS1 - Triestina, distretto 1.2 Sud",
+         "capacity" : "10",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 23,
+      "lat" : 45.6533859,
+      "lon" : 13.7824149,
+      "tags" : {    
+         "name" : "La tua casa",
+         "operator" : null,
+         "phone" : "+39 040 370223",
+         "fax" : "+39 040 635744",
+         "email" : "latuacasa_srl@libero.it",
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS1 - Triestina, distretto 1.2 Sud",
+         "capacity" : "24",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 24,
+      "lat" : 45.6510339,
+      "lon" : 13.7737085,
+      "tags" : {    
+         "name" : "La tua casa",
+         "operator" : null,
+         "phone" : "+39 040 636239",
+         "fax" : "+39 040 635744",
+         "email" : "latuacasa_srl@libero.it",
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS1 - Triestina, distretto 1.2 Sud",
+         "capacity" : "40",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 25,
+      "lat" : 45.6534731,
+      "lon" : 13.7831244,
+      "tags" : {    
+         "name" : "La tua casa",
+         "operator" : null,
+         "phone" : "+39 040 635744",
+         "fax" : "+39 040 635744",
+         "email" : "latuacasa_srl@libero.it",
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS1 - Triestina, distretto 1.2 Sud",
+         "capacity" : "25",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 26,
+      "lat" : 45.8368542,
+      "lon" : 13.3315759,
+      "tags" : {    
+         "name" : "La Villa Rosa",
+         "operator" : null,
+         "phone" : "+39 0431 34744",
+         "fax" : "+39 040 635744",
+         "email" : "latuacasa_srl@libero.it",
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS5 - Bassa Friulana, distretto 5.1 Est",
+         "capacity" : "42",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 27,
+      "lat" : 45.6530656,
+      "lon" : 13.779278,
+      "tags" : {    
+         "name" : "Le Mimose di Adriano Cornachin",
+         "operator" : null,
+         "phone" : "+39 040 0640340",
+         "fax" : null,
+         "email" : "lemimose.ts@gmail.com",
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS1 - Triestina, distretto 1.2 Sud",
+         "capacity" : "10",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 28,
+      "lat" : 45.65272,
+      "lon" : 13.773935,
+      "tags" : {    
+         "name" : "Le Mimose di Adriano Cornachin",
+         "operator" : null,
+         "phone" : "+39 040 2454796",
+         "fax" : "+39 040 0646407",
+         "email" : "lemimose.ts@gmail.com",
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS1 - Triestina, distretto 1.2 Sud",
+         "capacity" : "14",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 29,
+      "lat" : 45.6557767,
+      "lon" : 13.789269,
+      "tags" : {    
+         "name" : "Pia Casa Gentilomo Abramo Stock",
+         "operator" : null,
+         "phone" : "+39 040 568578",
+         "fax" : "+39 040 5705590",
+         "email" : "piacasagentilomo@triestebraica.it",
+         "description" : "Residenza protetta, ente religioso, convenzionata con SSR; ASS1 - Triestina, distretto 1.1 Ovest",
+         "capacity" : "20",
+         "capacity:disabled" : "20",
+         "social_facility:for" : "disabled",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 30,
+      "lat" : 45.6467539,
+      "lon" : 13.7683057,
+      "tags" : {    
+         "name" : "Mademar",
+         "operator" : null,
+         "phone" : "+39 040 3220215",
+         "fax" : "+39 040 3223268",
+         "email" : null,
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS1 - Triestina, distretto 1.2 Sud",
+         "capacity" : "11",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 31,
+      "lat" : 45.643338,
+      "lon" : 13.7595511,
+      "tags" : {    
+         "name" : "Nonno Felice 1",
+         "operator" : null,
+         "phone" : "+39 040 311593",
+         "fax" : "+39 040 311593",
+         "email" : "nonnofelicedue@vodafone.it",
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS1 - Triestina, distretto 1.2 Sud",
+         "capacity" : "16",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 32,
+      "lat" : 45.648434,
+      "lon" : 13.7653543,
+      "tags" : {    
+         "name" : "Nonno Felice 2",
+         "operator" : null,
+         "phone" : "+39 040 300870",
+         "fax" : "+39 040 300870",
+         "email" : "nonnofelicedue@vodafone.it",
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS1 - Triestina, distretto 1.2 Sud",
+         "capacity" : "19",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 33,
+      "lat" : 45.6211474,
+      "lon" : 13.8364953,
+      "tags" : {    
+         "name" : "Nuova Villa Iris",
+         "operator" : null,
+         "phone" : "+39 040 8323666",
+         "fax" : "+39 040 8324728",
+         "email" : "info@nuovavillairis.com",
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS1 - Triestina, distretto 1.3 Est",
+         "capacity" : "25",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 34,
+      "lat" : 46.2191154,
+      "lon" : 13.2195397,
+      "tags" : {    
+         "name" : "Opera Pia Coianiz ASP",
+         "operator" : "Opera Pia Coianiz ASP",
+         "phone" : "+39 0432 780711",
+         "fax" : "+39 0432 780715",
+         "email" : "segreteria@operapiacoianiz.it",
+         "description" : "Residenza ad utenza diversificata, pubblica ASP, convenzionata con SSR; ASS4 - Medio Friuli, distretto 4.2 Tarcento",
+         "capacity" : "210",
+         "capacity:disabled" : "155",
+         "social_facility:for" : "senior;disabled",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 35,
+      "lat" : 45.6005715,
+      "lon" : 13.7241184,
+      "tags" : {    
+         "name" : "Pensione Brioni",
+         "operator" : null,
+         "phone" : "+39 040 271730",
+         "fax" : "+39 040 271730",
+         "email" : "pensionebrioni@libero.it",
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS1 - Triestina, distretto 1.3 Est",
+         "capacity" : "39",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 36,
+      "lat" : 45.6581211,
+      "lon" : 13.8086902,
+      "tags" : {    
+         "name" : "Suore Scolastiche Francescane di Cristo Re",
+         "operator" : null,
+         "phone" : "+39 040 567851",
+         "fax" : "+39 040 567851",
+         "email" : "suore.scolastiche.ts@ssfcr.org",
+         "description" : "Casa albergo, privata sociale, non convenzionata con SSR; ASS1 - Triestina, distretto 1.4 Nord",
+         "capacity" : "18",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "assisted_living"
+         }
+   },
+   {
+      "id"  : 37,
+      "lat" : 45.7209239,
+      "lon" : 13.7873048,
+      "tags" : {    
+         "name" : "Villa del Sole",
+         "operator" : null,
+         "phone" : "+39 040 327349",
+         "fax" : "+39 040 327349",
+         "email" : "l.cicia@alice.it",
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS1 - Triestina, distretto 1.1 Ovest",
+         "capacity" : "25",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 38,
+      "lat" : 45.7365586,
+      "lon" : 13.6926847,
+      "tags" : {    
+         "name" : "Villa Verde",
+         "operator" : null,
+         "phone" : "+39 040 220813",
+         "fax" : "+39 040 220608",
+         "email" : "villaverdetrieste@me.com",
+         "description" : "Residenza polifunzionale con modulo fascia A, privata di mercato, convenzionata con SSR; ASS1 - Triestina, distretto 1.1 Ovest",
+         "capacity" : "44",
+         "capacity:disabled" : null,
+         "social_facility:for" : null,
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 39,
+      "lat" : 45.9040804,
+      "lon" : 13.3076488,
+      "tags" : {    
+         "name" : "ASP Ardito Desio",
+         "operator" : "ASP Ardito Desio",
+         "phone" : "+39 0432 929372",
+         "fax" : "+39 0432 924690",
+         "email" : "cinzia@asparditodesio1.191.it",
+         "description" : "Residenza ad utenza diversificata, pubblica ASP, convenzionata con SSR; ASS5 - Bassa Friulana, distretto 5.1 Est",
+         "capacity" : "117",
+         "capacity:disabled" : "94",
+         "social_facility:for" : "senior;disabled",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 40,
+      "lat" : 46.1291854,
+      "lon" : 13.4880472,
+      "tags" : {    
+         "name" : "ASP Casa di riposo Giuseppe Sirch",
+         "operator" : "ASP Casa di riposo Giuseppe Sirch",
+         "phone" : "+39 0432 727013",
+         "fax" : "+39 0432 727013",
+         "email" : "aspsirch@legalmail.it",
+         "description" : "Residenza ad utenza diversificata, pubblica ASP, convenzionata con SSR; ASS4 - Medio Friuli, distretto 4.3 Cividale",
+         "capacity" : "60",
+         "capacity:disabled" : "58",
+         "social_facility:for" : "senior;disabled",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 41,
+      "lat" : 45.8485369,
+      "lon" : 12.6248228,
+      "tags" : {    
+         "name" : "ASP Casa Lucia",
+         "operator" : "ASP Casa Lucia",
+         "phone" : "+39 0434 614001",
+         "fax" : "+39 0434 614009",
+         "email" : "aspcasalucia@pec.it",
+         "description" : "Residenza protetta, pubblica ASP, convenzionata con SSR; ASS6 - Friuli occidentale, distretto 6.3 Sud",
+         "capacity" : "60",
+         "capacity:disabled" : "60",
+         "social_facility:for" : "disabled",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 42,
+      "lat" : 46.0867941,
+      "lon" : 13.4353029,
+      "tags" : {    
+         "name" : "ASP Casa per anziani Cividale",
+         "operator" : "ASP Casa per anziani Cividale",
+         "phone" : "+39 0432 731048",
+         "fax" : "+39 0432 700863",
+         "email" : "protocollo@aspcividale.it",
+         "description" : "Residenza ad utenza diversificata, pubblica ASP, convenzionata con SSR; ASS4 - Medio Friuli, distretto 4.3 Cividale",
+         "capacity" : "251",
+         "capacity:disabled" : "186",
+         "social_facility:for" : "senior;disabled",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 43,
+      "lat" : 45.962136799999996,
+      "lon" : 12.994138280128503,
+      "tags" : {    
+         "name" : "ASP Daniele Moro Codroipo",
+         "operator" : "ASP Daniele Moro Codroipo",
+         "phone" : "+39 0432 909311",
+         "fax" : "+39 0432 909306",
+         "email" : "info@aspmoro.it",
+         "description" : "Residenza ad utenza diversificata, pubblica ASP, convenzionata con SSR; ASS4 - Medio Friuli, distretto 4.4 Codroipo",
+         "capacity" : "129",
+         "capacity:disabled" : "123",
+         "social_facility:for" : "senior;disabled",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 44,
+      "lat" : 45.8620906,
+      "lon" : 12.9262276,
+      "tags" : {    
+         "name" : "ASP Daniele Moro Morsano",
+         "operator" : "ASP Daniele Moro Morsano",
+         "phone" : "+39 0434 697046",
+         "fax" : "+39 0434 696057",
+         "email" : "info@entemoro.it",
+         "description" : "Residenza protetta, pubblica ASP, convenzionata con SSR; ASS6 - Friuli occidentale, distretto 6.2 Est",
+         "capacity" : "113",
+         "capacity:disabled" : "113",
+         "social_facility:for" : "disabled",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 45,
+      "lat" : 46.0154318,
+      "lon" : 13.3008844,
+      "tags" : {    
+         "name" : "ASP Fondazione Emilia Muner De Giudici",
+         "operator" : "ASP Fondazione Emilia Muner De Giudici",
+         "phone" : "+39 0432 409311",
+         "fax" : "+39 0432 670016",
+         "email" : "info@fondazionemuner.it",
+         "description" : "Residenza ad utenza diversificata, pubblica ASP, convenzionata con SSR; ASS4 - Medio Friuli, distretto 4.5 Udine",
+         "capacity" : "81",
+         "capacity:disabled" : "76",
+         "social_facility:for" : "senior;disabled",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 46,
+      "lat" : 45.8349524,
+      "lon" : 13.2016575,
+      "tags" : {    
+         "name" : "ASP Giovanni Chiabà",
+         "operator" : "ASP Giovanni Chiabà",
+         "phone" : "+39 0431 65032",
+         "fax" : "+39 0431 65085",
+         "email" : "ragioneria@gchiaba.191.it",
+         "description" : "Residenza ad utenza diversificata, pubblica ASP, convenzionata con SSR; ASS5 - Bassa Friulana, distretto 5.2 Ovest",
+         "capacity" : "152",
+         "capacity:disabled" : "139",
+         "social_facility:for" : "senior;disabled",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 47,
+      "lat" : 45.8807052,
+      "lon" : 12.7107214,
+      "tags" : {    
+         "name" : "ASP Solidarietà Mons. D. Cadore",
+         "operator" : "ASP Solidarietà Mons. D. Cadore",
+         "phone" : "+39 0434 640074",
+         "fax" : "+39 0434 640941",
+         "email" : "azzano@casaripososolidarieta.191.it",
+         "description" : "Residenza protetta, pubblica ASP, convenzionata con SSR; ASS6 - Friuli occidentale, distretto 6.3 Sud",
+         "capacity" : "84",
+         "capacity:disabled" : "84",
+         "social_facility:for" : "disabled",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 48,
+      "lat" : 45.7678127,
+      "lon" : 13.0026488,
+      "tags" : {    
+         "name" : "ASP Umberto I Latisana",
+         "operator" : "ASP Umberto I Latisana",
+         "phone" : "+39 0431 50202",
+         "fax" : "+39 0431 512480",
+         "email" : "amministrazione@umberto-primo.it",
+         "description" : "Residenza ad utenza diversificata, pubblica ASP, convenzionata con SSR; ASS5 - Bassa Friulana, distretto 5.2 Ovest",
+         "capacity" : "56",
+         "capacity:disabled" : "50",
+         "social_facility:for" : "senior;disabled",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 49,
+      "lat" : 46.5296598,
+      "lon" : 13.0143371,
+      "tags" : {    
+         "name" : "ASP Casa Degli Operai Vecchi Ed Inabili Al Lavoro Matteo Brunetti",
+         "operator" : "ASP Casa Degli Operai Vecchi Ed Inabili Al Lavoro Matteo Brunetti",
+         "phone" : "+39 0433 775121",
+         "fax" : "+39 0433 775012",
+         "email" : "info@covilpaluzza.it",
+         "description" : "Residenza ad utenza diversificata, pubblica ASP, convenzionata con SSR; ASS3 - Alto Friuli, distretto 3.2 Carnia",
+         "capacity" : "130",
+         "capacity:disabled" : "97",
+         "social_facility:for" : "senior;disabled",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 50,
+      "lat" : 45.95576375,
+      "lon" : 12.662085759597229,
+      "tags" : {    
+         "name" : "ASP Casa per anziani Umberto I",
+         "operator" : "ASP Casa per anziani Umberto I",
+         "phone" : "+39 0434 223811",
+         "fax" : "+39 0434 223822",
+         "email" : "direzione@asp-umbertoprimo.regione.fvg.it",
+         "description" : "Residenza protetta, pubblica ASP, convenzionata con SSR; ASS6 - Friuli occidentale, distretto 6.5 Urbano",
+         "capacity" : "106",
+         "capacity:disabled" : "106",
+         "social_facility:for" : "disabled",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 51,
+      "lat" : 46.1892623,
+      "lon" : 12.7637662,
+      "tags" : {    
+         "name" : "ASP Cavasso",
+         "operator" : "ASP Cavasso",
+         "phone" : "+39 0427 77248",
+         "fax" : "+39 0427 77248",
+         "email" : "accettazione@aspcavasso.it",
+         "description" : "Residenza ad utenza diversificata, pubblica ASP, convenzionata con SSR; ASS6 - Friuli occidentale, distretto 6.4 Nord",
+         "capacity" : "91",
+         "capacity:disabled" : "88",
+         "social_facility:for" : "senior;disabled",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 52,
+      "lat" : 45.9904162,
+      "lon" : 12.70308527482656,
+      "tags" : {    
+         "name" : "ASP Cordenonese Arcobaleno",
+         "operator" : "ASP Cordenonese Arcobaleno",
+         "phone" : "+39 0434 930440",
+         "fax" : "+39 0434 580334",
+         "email" : "protocollo@aspcordenonese.it",
+         "description" : "Residenza ad utenza diversificata, pubblica ASP, convenzionata con SSR; ASS6 - Friuli occidentale, distretto 6.5 Urbano",
+         "capacity" : "113",
+         "capacity:disabled" : "112",
+         "social_facility:for" : "senior;disabled",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 53,
+      "lat" : 46.4056874,
+      "lon" : 13.01003,
+      "tags" : {    
+         "name" : "ASP della Carnia San Luigi Scrosoppi",
+         "operator" : "ASP della Carnia San Luigi Scrosoppi",
+         "phone" : "+39 0433 481611",
+         "fax" : "+39 0433 44422",
+         "email" : "info@aspcarnia.it",
+         "description" : "Residenza ad utenza diversificata, pubblica ASP, convenzionata con SSR; ASS3 - Alto Friuli, distretto 3.2 Carnia",
+         "capacity" : "166",
+         "capacity:disabled" : "150",
+         "social_facility:for" : "senior;disabled",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 54,
+      "lat" : 46.1127589,
+      "lon" : 12.900439,
+      "tags" : {    
+         "name" : "ASP di Spilimbergo",
+         "operator" : "ASP di Spilimbergo",
+         "phone" : "+39 0427 2134",
+         "fax" : "+39 0427 41268",
+         "email" : "azienda@aspspilimbergo.it",
+         "description" : "Residenza protetta, pubblica ASP, convenzionata con SSR; ASS6 - Friuli occidentale, distretto 6.4 Nord",
+         "capacity" : "204",
+         "capacity:disabled" : "204",
+         "social_facility:for" : "disabled",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 55,
+      "lat" : 45.6472796,
+      "lon" : 13.7666584,
+      "tags" : {    
+         "name" : "Casa albergo Domus Mariae dell'Ente di culto San Giusto",
+         "operator" : null,
+         "phone" : "+39 040 300771",
+         "fax" : "+39 040 300772",
+         "email" : "domusmariae@alice.it",
+         "description" : "Casa albergo, privata sociale, non convenzionata con SSR; ASS1 - Triestina, distretto 1.2 Sud",
+         "capacity" : "45",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "assisted_living"
+         }
+   },
+   {
+      "id"  : 56,
+      "lat" : 45.6536279,
+      "lon" : 13.772436,
+      "tags" : {    
+         "name" : "Casa albergo Enrico Caratti",
+         "operator" : "Casa albergo Enrico Caratti",
+         "phone" : "+39 040 365110",
+         "fax" : "+39 040 3405449",
+         "email" : "info@prosenectutets.it",
+         "description" : "Casa albergo, pubblica ASP, non convenzionata con SSR; ASS1 - Triestina, distretto 1.2 Sud",
+         "capacity" : "10",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "assisted_living"
+         }
+   },
+   {
+      "id"  : 57,
+      "lat" : 45.6529323,
+      "lon" : 13.7791359,
+      "tags" : {    
+         "name" : "Casa albergo Maria Basiliadis dell'Ente di culto San Giusto",
+         "operator" : null,
+         "phone" : "+39 040 371363",
+         "fax" : "+39 040 371363",
+         "email" : "elena@casamariabasiliadis.191.it",
+         "description" : "Casa albergo, privata sociale, non convenzionata con SSR; ASS1 - Triestina, distretto 1.2 Sud",
+         "capacity" : "35",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "assisted_living"
+         }
+   },
+   {
+      "id"  : 58,
+      "lat" : 45.6788013,
+      "lon" : 13.7566921,
+      "tags" : {    
+         "name" : "Casa albergo Sacro Cuore",
+         "operator" : null,
+         "phone" : "+39 040 410096",
+         "fax" : "+39 040 422636",
+         "email" : "orsoline.trieste@tiscali.it",
+         "description" : "Casa albergo, ente religioso, non convenzionata con SSR; ASS1 - Triestina, distretto 1.1 Ovest",
+         "capacity" : "13",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "assisted_living"
+         }
+   },
+   {
+      "id"  : 59,
+      "lat" : 45.878305,
+      "lon" : 13.0410646,
+      "tags" : {    
+         "name" : "Casa albergo Comune di Rivignano",
+         "operator" : "Comune di Rivignano ",
+         "phone" : "+39 0432 775793",
+         "fax" : "+39 0432 775793",
+         "email" : null,
+         "description" : "Casa albergo, pubblica comunale, convenzionata con SSR; ASS5 - Bassa Friulana, distretto 5.2 Ovest",
+         "capacity" : "22",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "assisted_living"
+         }
+   },
+   {
+      "id"  : 60,
+      "lat" : 45.8951622,
+      "lon" : 13.4955572,
+      "tags" : {    
+         "name" : "Casa albergo Fondazione O. Brovedani Onlus",
+         "operator" : null,
+         "phone" : "+39 0481 967511",
+         "fax" : "+39 0481 960591",
+         "email" : "segr@fondazionebrovedani.it",
+         "description" : "Casa albergo, privata sociale, non convenzionata con SSR; ASS2 - Isontina, distretto 2.1 Alto Isontino",
+         "capacity" : "98",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "assisted_living"
+         }
+   },
+   {
+      "id"  : 61,
+      "lat" : 46.29045,
+      "lon" : 12.437602,
+      "tags" : {    
+         "name" : "Casa albergo per anziani Cimolais",
+         "operator" : null,
+         "phone" : "+39 0427 87035",
+         "fax" : "+39 0427 87035",
+         "email" : "l.protti@itaca.coopsoc.it",
+         "description" : "Casa albergo, privata sociale, non convenzionata con SSR; ASS6 - Friuli occidentale, distretto 6.4 Nord",
+         "capacity" : "32",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "assisted_living"
+         }
+   },
+   {
+      "id"  : 62,
+      "lat" : 46.0363531,
+      "lon" : 12.6789207,
+      "tags" : {    
+         "name" : "Casa anziani San Quirino",
+         "operator" : "Comune di San Quirino ",
+         "phone" : "+39 0434 91250",
+         "fax" : "+39 0434 917682",
+         "email" : "casaanzianisq2005@libero.it",
+         "description" : "Residenza protetta, pubblica comunale, convenzionata con SSR; ASS6 - Friuli occidentale, distretto 6.5 Urbano",
+         "capacity" : "44",
+         "capacity:disabled" : "44",
+         "social_facility:for" : "disabled",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 63,
+      "lat" : 45.9453933,
+      "lon" : 12.6664562,
+      "tags" : {    
+         "name" : "Casa Betania Opera sacerdozio regale",
+         "operator" : null,
+         "phone" : "+39 0434 570019 - 0434 960019",
+         "fax" : "+39 0434 572664",
+         "email" : null,
+         "description" : "Casa albergo, privata sociale, non convenzionata con SSR; ASS6 - Friuli occidentale, distretto 6.5 Urbano",
+         "capacity" : "27",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "assisted_living"
+         }
+   },
+   {
+      "id"  : 64,
+      "lat" : 46.1724812,
+      "lon" : 12.836733709586728,
+      "tags" : {    
+         "name" : "Casa dell'Emigrante Cesare e Agnese Carnera",
+         "operator" : "Comune di Sequals ",
+         "phone" : "+39 0427 93231 - 0427 93263",
+         "fax" : "+39 0427 939176",
+         "email" : "casa.emigrante@com-sequals.regione.fvg.it",
+         "description" : "Residenza ad utenza diversificata, pubblica comunale, convenzionata con SSR; ASS6 - Friuli occidentale, distretto 6.4 Nord",
+         "capacity" : "93",
+         "capacity:disabled" : "83",
+         "social_facility:for" : "senior;disabled",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 65,
+      "lat" : 46.0624461,
+      "lon" : 13.2428824,
+      "tags" : {    
+         "name" : "Casa di accoglienza del clero",
+         "operator" : null,
+         "phone" : "+39 0432 511185",
+         "fax" : "+39 0432 502833",
+         "email" : "fraternitaudine@libero.it",
+         "description" : "Residenza ad utenza diversificata, privata sociale, non convenzionata con SSR; ASS4 - Medio Friuli, distretto 4.5 Udine",
+         "capacity" : "57",
+         "capacity:disabled" : "22",
+         "social_facility:for" : "senior;disabled",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 66,
+      "lat" : 45.6535159,
+      "lon" : 13.7818204,
+      "tags" : {    
+         "name" : "Casa di riposo Cristal",
+         "operator" : null,
+         "phone" : "+39 040 633545",
+         "fax" : null,
+         "email" : "cristal_TS@hotmail.it",
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS1 - Triestina, distretto 1.2 Sud",
+         "capacity" : "16",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 67,
+      "lat" : 45.766964599999994,
+      "lon" : 13.64157572384536,
+      "tags" : {    
+         "name" : "Casa di riposo F.lli Stuparich",
+         "operator" : "Comune di Duino Aurisina / Devin - Nabrežina",
+         "phone" : "+39 040 299195",
+         "fax" : "+39 040 2916043",
+         "email" : "guglia@comune.duino-aurisina.ts.it",
+         "description" : "Residenza protetta, pubblica comunale, convenzionata con SSR; ASS1 - Triestina, distretto 1.1 Ovest",
+         "capacity" : "81",
+         "capacity:disabled" : "81",
+         "social_facility:for" : "disabled",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 68,
+      "lat" : 46.2292351,
+      "lon" : 12.9181902,
+      "tags" : {    
+         "name" : "Casa di riposo Fondazione G. Fabricio",
+         "operator" : null,
+         "phone" : "+39 0427 80205",
+         "fax" : "+39 0427 80205",
+         "email" : "parr.clauzetto@diocesiconcordiapordenone.it",
+         "description" : "Residenza ad utenza diversificata, privata sociale, convenzionata con SSR; ASS6 - Friuli occidentale, distretto 6.4 Nord",
+         "capacity" : "25",
+         "capacity:disabled" : "14",
+         "social_facility:for" : "senior;disabled",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 69,
+      "lat" : 45.9601496,
+      "lon" : 13.4620777,
+      "tags" : {    
+         "name" : "Casa di riposo La Cjase",
+         "operator" : "Comune di Cormons ",
+         "phone" : "+39 0481 60485",
+         "fax" : null,
+         "email" : "assistente.sociale@com-cormons.regione.fvg.it",
+         "description" : "Residenza ad utenza diversificata, pubblica comunale, convenzionata con SSR; ASS2 - Isontina, distretto 2.1 Alto Isontino",
+         "capacity" : "49",
+         "capacity:disabled" : "44",
+         "social_facility:for" : "senior;disabled",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 70,
+      "lat" : 45.65885385,
+      "lon" : 13.842317271566401,
+      "tags" : {    
+         "name" : "Casa di riposo Livia Ieralla Onlus",
+         "operator" : null,
+         "phone" : "+39 040 226260",
+         "fax" : "+39 040 226849",
+         "email" : "patrizia.piras@casaieralla.it",
+         "description" : "Residenza protetta, privata sociale, convenzionata con SSR; ASS1 - Triestina, distretto 1.1 Ovest",
+         "capacity" : "112",
+         "capacity:disabled" : "112",
+         "social_facility:for" : "disabled",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 71,
+      "lat" : 45.6493642,
+      "lon" : 13.7672511,
+      "tags" : {    
+         "name" : "Casa di riposo Napoleone",
+         "operator" : null,
+         "phone" : "+39 040 304986",
+         "fax" : "+39 040 301943",
+         "email" : "casanapoleone@gmail.com",
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS1 - Triestina, distretto 1.2 Sud",
+         "capacity" : "21",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 72,
+      "lat" : 46.16149,
+      "lon" : 13.2043385,
+      "tags" : {    
+         "name" : "Casa di riposo Nobili dè Pilosio",
+         "operator" : "Comune di Tricesimo ",
+         "phone" : "+39 0432 851115",
+         "fax" : "+39 0432 854970",
+         "email" : "casadiriposo@com-tricesimo.regione.fvg.it",
+         "description" : "Residenza ad utenza diversificata, pubblica comunale, convenzionata con SSR; ASS4 - Medio Friuli, distretto 4.2 Tarcento",
+         "capacity" : "99",
+         "capacity:disabled" : "45",
+         "social_facility:for" : "senior;disabled",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 73,
+      "lat" : 45.6540615,
+      "lon" : 13.8030156,
+      "tags" : {    
+         "name" : "Casa di riposo S. Domenico - Ente di culto S. Giusto",
+         "operator" : null,
+         "phone" : "+39 040 568611",
+         "fax" : "+39 040 568611",
+         "email" : "cdrsandomenico@alice.it",
+         "description" : "Residenza protetta, ente religioso, convenzionata con SSR; ASS1 - Triestina, distretto 1.4 Nord",
+         "capacity" : "48",
+         "capacity:disabled" : "48",
+         "social_facility:for" : "disabled",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 74,
+      "lat" : 45.9371551,
+      "lon" : 13.6226751,
+      "tags" : {    
+         "name" : "Casa di riposo S. Vincenzo De Paoli",
+         "operator" : null,
+         "phone" : "+39 0481 531546",
+         "fax" : "+39 0481 537997",
+         "email" : "sviluppoprogetti1@gmail.com",
+         "description" : "Casa albergo, ente religioso, non convenzionata con SSR; ASS2 - Isontina, distretto 2.1 Alto Isontino",
+         "capacity" : "68",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "assisted_living"
+         }
+   },
+   {
+      "id"  : 75,
+      "lat" : 46.2792212,
+      "lon" : 13.1367061,
+      "tags" : {    
+         "name" : "Casa di riposo Santa Maria degli Angeli",
+         "operator" : null,
+         "phone" : "+39 0432 898711 - 347 4291472",
+         "fax" : "+39 0432 898726",
+         "email" : "economagem@libero.it",
+         "description" : "Residenza ad utenza diversificata, ente religioso, non convenzionata con SSR; ASS3 - Alto Friuli, distretto 3.1 Gemonese",
+         "capacity" : "80",
+         "capacity:disabled" : "40",
+         "social_facility:for" : "senior;disabled",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 76,
+      "lat" : 45.6800429,
+      "lon" : 13.3926741,
+      "tags" : {    
+         "name" : "Casa di riposo Serena",
+         "operator" : "Comune di Grado ",
+         "phone" : "+39 0431 896411",
+         "fax" : "+39 0431 85112",
+         "email" : "casariposo.serena@comunegrado.it",
+         "description" : "Residenza protetta, pubblica comunale, convenzionata con SSR; ASS2 - Isontina, distretto 2.2 Basso Isontino",
+         "capacity" : "115",
+         "capacity:disabled" : "115",
+         "social_facility:for" : "disabled",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 77,
+      "lat" : 45.8206044,
+      "lon" : 13.3318256,
+      "tags" : {    
+         "name" : "Casa di riposo V. Sarcinelli",
+         "operator" : "Comune di Cervignano del Friuli ",
+         "phone" : "+39 0431 388530",
+         "fax" : "+39 0431 388603",
+         "email" : "casa.riposo@com-cervignano-del-friuli.regione.fvg.it",
+         "description" : "Residenza ad utenza diversificata, pubblica comunale, convenzionata con SSR; ASS5 - Bassa Friulana, distretto 5.1 Est",
+         "capacity" : "87",
+         "capacity:disabled" : "59",
+         "social_facility:for" : "senior;disabled",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 78,
+      "lat" : 45.9577792,
+      "lon" : 13.471685,
+      "tags" : {    
+         "name" : "Casa di riposo \u201cRosa Mistica\u201d",
+         "operator" : null,
+         "phone" : "+39 0481 60157 - 0481 61881",
+         "fax" : "+39 0481 61571",
+         "email" : "casadiriposo@rosamistica.191.it",
+         "description" : "Residenza ad utenza diversificata, ente religioso, non convenzionata con SSR; ASS2 - Isontina, distretto 2.1 Alto Isontino",
+         "capacity" : "106",
+         "capacity:disabled" : "80",
+         "social_facility:for" : "senior;disabled",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 79,
+      "lat" : 45.8903568,
+      "lon" : 13.5021411,
+      "tags" : {    
+         "name" : "Casa di riposo ad utenza diversificata San Salvatore",
+         "operator" : "Comune di Gradisca D'Isonzo ",
+         "phone" : "+39 0481 92644",
+         "fax" : "+39 0481 954749",
+         "email" : "CasaRiposo@com-gradisca-d-isonzo.regione.fvg.it",
+         "description" : "Residenza ad utenza diversificata, pubblica comunale, convenzionata con SSR; ASS2 - Isontina, distretto 2.1 Alto Isontino",
+         "capacity" : "32",
+         "capacity:disabled" : "11",
+         "social_facility:for" : "senior;disabled",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 80,
+      "lat" : 46.2068791,
+      "lon" : 13.119066726092559,
+      "tags" : {    
+         "name" : "Casa di riposo Buja",
+         "operator" : "Comune di Buja ",
+         "phone" : "+39 0432 960192",
+         "fax" : "+39 0432 960192",
+         "email" : null,
+         "description" : "Residenza ad utenza diversificata, pubblica comunale, convenzionata con SSR; ASS4 - Medio Friuli, distretto 4.1 S.Daniele",
+         "capacity" : "27",
+         "capacity:disabled" : "12",
+         "social_facility:for" : "senior;disabled",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 81,
+      "lat" : 45.6024042,
+      "lon" : 13.7657949,
+      "tags" : {    
+         "name" : "Casa di riposo comunale",
+         "operator" : "Comune di Muggia ",
+         "phone" : "+39 040 3360350",
+         "fax" : "+39 040 272039",
+         "email" : "jasna.petaros@comunedimuggia.ts.it",
+         "description" : "Residenza ad utenza diversificata, pubblica comunale, convenzionata con SSR; ASS1 - Triestina, distretto 1.3 Est",
+         "capacity" : "72",
+         "capacity:disabled" : "62",
+         "social_facility:for" : "senior;disabled",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 82,
+      "lat" : 45.9362294,
+      "lon" : 13.5805012,
+      "tags" : {    
+         "name" : "Casa di riposo comunale Angelo Culot",
+         "operator" : "Comune di Gorizia",
+         "phone" : "+39 0481 390701",
+         "fax" : "+39 0481 392329",
+         "email" : "graziella.coni@comune.gorizia.it",
+         "description" : "Residenza ad utenza diversificata, pubblica comunale, convenzionata con SSR; ASS2 - Isontina, distretto 2.1 Alto Isontino",
+         "capacity" : "127",
+         "capacity:disabled" : "32",
+         "social_facility:for" : "senior;disabled",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 83,
+      "lat" : 45.9098461,
+      "lon" : 12.8568894,
+      "tags" : {    
+         "name" : "Casa di riposo della Parrocchia dei Santi Vito, Modesto e Crescenzia Martiri",
+         "operator" : null,
+         "phone" : "+39 0434 842511",
+         "fax" : "+39 0434 842599",
+         "email" : "posta@casadiriposo.org",
+         "description" : "Residenza protetta, privata sociale, convenzionata con SSR; ASS6 - Friuli occidentale, distretto 6.2 Est",
+         "capacity" : "264",
+         "capacity:disabled" : "264",
+         "social_facility:for" : "disabled",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 84,
+      "lat" : 45.956657899999996,
+      "lon" : 12.499257066804603,
+      "tags" : {    
+         "name" : "Casa di riposo di Sacile",
+         "operator" : "Comune di Sacile ",
+         "phone" : "+39 0434 736489",
+         "fax" : "+39 0434 736405",
+         "email" : "casa_rip@libero.it",
+         "description" : "Residenza protetta, pubblica comunale, convenzionata con SSR; ASS6 - Friuli occidentale, distretto 6.1 Ovest",
+         "capacity" : "86",
+         "capacity:disabled" : "86",
+         "social_facility:for" : "disabled",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 85,
+      "lat" : 45.868788,
+      "lon" : 13.360206,
+      "tags" : {    
+         "name" : "Casa di riposo per anziani del Comune di Aiello del Friuli",
+         "operator" : "Comune di Aiello del Friuli ",
+         "phone" : "+39 0431 99081",
+         "fax" : "+39 0431 974596",
+         "email" : "casadiriposo@comune.aiellodelfriuli.ud.it",
+         "description" : "Residenza protetta, pubblica comunale, convenzionata con SSR; ASS5 - Bassa Friulana, distretto 5.1 Est",
+         "capacity" : "60",
+         "capacity:disabled" : "60",
+         "social_facility:for" : "disabled",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 86,
+      "lat" : 45.9352709,
+      "lon" : 13.6089506,
+      "tags" : {    
+         "name" : "Casa di riposo Residenza protetta Villa S. Giusto",
+         "operator" : null,
+         "phone" : "+39 0481 596911",
+         "fax" : "+39 0481 596988",
+         "email" : "s.giusto.accettazione@fatebenefratelli.it",
+         "description" : "Residenza protetta, ente religioso, convenzionata con SSR; ASS2 - Isontina, distretto 2.1 Alto Isontino",
+         "capacity" : "200",
+         "capacity:disabled" : "200",
+         "social_facility:for" : "disabled",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 87,
+      "lat" : 46.2013591,
+      "lon" : 12.6171267,
+      "tags" : {    
+         "name" : "Comunità alloggio per anziani Andreis",
+         "operator" : "Comune di Andreis ",
+         "phone" : "+39 0427 76290",
+         "fax" : "+39 0427 76290",
+         "email" : null,
+         "description" : "Comunità alloggio, pubblica comunale, non convenzionata con SSR; ASS6 - Friuli occidentale, distretto 6.4 Nord",
+         "capacity" : "13",
+         "capacity:disabled" : null,
+         "social_facility:for" : null,
+         "social_facility" : "group_home"
+         }
+   },
+   {
+      "id"  : 88,
+      "lat" : 46.07192045,
+      "lon" : 12.578086154726027,
+      "tags" : {    
+         "name" : "Casa di soggiorno per anziani Aviano",
+         "operator" : "Comune di Aviano ",
+         "phone" : "+39 0434 652367",
+         "fax" : "+39 0434 651312",
+         "email" : "casa.riposo@com-aviano.regione.fvg.it",
+         "description" : "Residenza protetta, pubblica comunale, convenzionata con SSR; ASS6 - Friuli occidentale, distretto 6.1 Ovest",
+         "capacity" : "95",
+         "capacity:disabled" : "95",
+         "social_facility:for" : "disabled",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 89,
+      "lat" : 46.2843523,
+      "lon" : 13.1345894,
+      "tags" : {    
+         "name" : "Casa di soggiorno per anziani Gemona",
+         "operator" : "Comune di Gemona del Friuli ",
+         "phone" : "+39 0432 980465 - 0432 972810",
+         "fax" : "+39 0432 980465",
+         "email" : "assistenza@com-gemona-del-friuli.regione.fvg.it",
+         "description" : "Residenza protetta, pubblica comunale, convenzionata con SSR; ASS3 - Alto Friuli, distretto 3.1 Gemonese",
+         "capacity" : "68",
+         "capacity:disabled" : "68",
+         "social_facility:for" : "disabled",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 90,
+      "lat" : 46.1509072,
+      "lon" : 13.2059729,
+      "tags" : {    
+         "name" : "Casa famiglia regionale per anziani non vedenti Villa Masieri",
+         "operator" : null,
+         "phone" : "+39 0432 853569",
+         "fax" : "+39 0432 853569",
+         "email" : "masieri@uiciechi.it",
+         "description" : "Casa albergo, privata sociale, non convenzionata con SSR; ASS4 - Medio Friuli, distretto 4.2 Tarcento",
+         "capacity" : "45",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "assisted_living"
+         }
+   },
+   {
+      "id"  : 91,
+      "lat" : 45.9623472,
+      "lon" : 12.6788919,
+      "tags" : {    
+         "name" : "Casa Serena - Pordenone",
+         "operator" : "Comune di Pordenone",
+         "phone" : "+39 0434 41221",
+         "fax" : "+39 0434 541259",
+         "email" : "giovanni.diprima@comune.pordenone.it",
+         "description" : "Residenza protetta, pubblica comunale, convenzionata con SSR; ASS6 - Friuli occidentale, distretto 6.5 Urbano",
+         "capacity" : "243",
+         "capacity:disabled" : "243",
+         "social_facility:for" : "disabled",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 92,
+      "lat" : 46.4052299,
+      "lon" : 13.1953813,
+      "tags" : {    
+         "name" : "Centro anziani E. Tolazzi",
+         "operator" : "Comune di Moggio Udinese ",
+         "phone" : "+39 0433 51999",
+         "fax" : "+39 0433 550619",
+         "email" : "centro.anziani@com-moggio-udinese.regione.fvg.it",
+         "description" : "Residenza protetta, pubblica comunale, convenzionata con SSR; ASS3 - Alto Friuli, distretto 3.1 Gemonese",
+         "capacity" : "71",
+         "capacity:disabled" : "71",
+         "social_facility:for" : "disabled",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 93,
+      "lat" : 46.1718038,
+      "lon" : 12.7118304,
+      "tags" : {    
+         "name" : "Centro assistenza anziani Maniago",
+         "operator" : "Comune di Maniago ",
+         "phone" : "+39 0427 707400",
+         "fax" : "+39 0427 732349",
+         "email" : "casa.anziani@maniago.it",
+         "description" : "Residenza ad utenza diversificata, pubblica comunale, convenzionata con SSR; ASS6 - Friuli occidentale, distretto 6.4 Nord",
+         "capacity" : "86",
+         "capacity:disabled" : "66",
+         "social_facility:for" : "senior;disabled",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 94,
+      "lat" : 46.3340167,
+      "lon" : 13.138051,
+      "tags" : {    
+         "name" : "Pio Istituto Elemosiniere - A. del Colle",
+         "operator" : "Pio Istituto Elemosiniere - A. del Colle",
+         "phone" : "+39 0432 985159",
+         "fax" : "+39 0432 985159",
+         "email" : "segreteria@aspvenzone.it",
+         "description" : "Casa albergo, pubblica ASP, convenzionata con SSR; ASS3 - Alto Friuli, distretto 3.1 Gemonese",
+         "capacity" : "34",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "assisted_living"
+         }
+   },
+   {
+      "id"  : 95,
+      "lat" : 45.943149250000005,
+      "lon" : 13.178982952624489,
+      "tags" : {    
+         "name" : "Centro assistenziale Italia Rovere Bianchi - Mortegliano (UD)",
+         "operator" : "Comune di Mortegliano ",
+         "phone" : "+39 0432 762094",
+         "fax" : "+39 0432 762095",
+         "email" : "centro.bianchi@com-mortegliano.regione.fvg.it",
+         "description" : "Residenza ad utenza diversificata, pubblica comunale, convenzionata con SSR; ASS4 - Medio Friuli, distretto 4.4 Codroipo",
+         "capacity" : "90",
+         "capacity:disabled" : "58",
+         "social_facility:for" : "senior;disabled",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 96,
+      "lat" : 45.7981612,
+      "lon" : 13.46894,
+      "tags" : {    
+         "name" : "Centro demenze Alzheimer  Argo",
+         "operator" : "Comune di San Canzian D'Isonzo ",
+         "phone" : "+39 0481 76409",
+         "fax" : "+39 0481 76409",
+         "email" : "info@casanzianironchi.191.it",
+         "description" : "Residenza protetta, pubblica tra comuni associati, convenzionata con SSR; ASS2 - Isontina, distretto 2.2 Basso Isontino",
+         "capacity" : "13",
+         "capacity:disabled" : "13",
+         "social_facility:for" : "disabled",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 97,
+      "lat" : 46.182416450000005,
+      "lon" : 13.069465660389582,
+      "tags" : {    
+         "name" : "Centro residenziale per anziani M. Stango Rodino",
+         "operator" : "Comune di Majano ",
+         "phone" : "+39 0432 948466",
+         "fax" : "+39 0432 848592",
+         "email" : "centroanziani@com-majano.regione.fvg.it",
+         "description" : "Casa albergo, pubblica comunale, non convenzionata con SSR; ASS4 - Medio Friuli, distretto 4.1 S.Daniele",
+         "capacity" : "99",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "assisted_living"
+         }
+   },
+   {
+      "id"  : 98,
+      "lat" : 46.5262258,
+      "lon" : 13.1220904,
+      "tags" : {    
+         "name" : "Centro residenziale per anziani Paularo",
+         "operator" : null,
+         "phone" : "+39 0433 711193",
+         "fax" : "+39 0433 711193",
+         "email" : null,
+         "description" : "Casa albergo, privata sociale, convenzionata con SSR; ASS3 - Alto Friuli, distretto 3.2 Carnia",
+         "capacity" : "25",
+         "capacity:disabled" : "20",
+         "social_facility:for" : "senior;disabled",
+         "social_facility" : "assisted_living"
+         }
+   },
+   {
+      "id"  : 99,
+      "lat" : 45.9702989,
+      "lon" : 12.6783863,
+      "tags" : {    
+         "name" : "Centro sociale per anziani - Torre di Pordenone",
+         "operator" : "Comune di Pordenone",
+         "phone" : "+39 0434 41221",
+         "fax" : "+39 0434 541259",
+         "email" : "giovanni.diprima@comune.pordenone.it",
+         "description" : "Casa albergo, pubblica comunale, non convenzionata con SSR; ASS6 - Friuli occidentale, distretto 6.5 Urbano",
+         "capacity" : "30",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "assisted_living"
+         }
+   },
+   {
+      "id"  : 100,
+      "lat" : 46.2556042,
+      "lon" : 13.084999448948171,
+      "tags" : {    
+         "name" : "Centro sociale per anziani Osoppo",
+         "operator" : null,
+         "phone" : "+39 0432 975183",
+         "fax" : "+39 0432 974498",
+         "email" : "centroanzianiosoppo@alice.it",
+         "description" : "Casa albergo, privata sociale, convenzionata con SSR; ASS3 - Alto Friuli, distretto 3.1 Gemonese",
+         "capacity" : "82",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "assisted_living"
+         }
+   },
+   {
+      "id"  : 101,
+      "lat" : 46.149034,
+      "lon" : 13.0094773,
+      "tags" : {    
+         "name" : "Centro sociale residenziale per anziani San Daniele",
+         "operator" : "Comune di San Daniele del Friuli ",
+         "phone" : "+39 0432 955618",
+         "fax" : "+39 0432 942770",
+         "email" : "centro.anziani@san-daniele.it",
+         "description" : "Casa albergo, pubblica comunale, non convenzionata con SSR; ASS4 - Medio Friuli, distretto 4.1 S.Daniele",
+         "capacity" : "99",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "assisted_living"
+         }
+   },
+   {
+      "id"  : 102,
+      "lat" : 45.972563,
+      "lon" : 12.6543558,
+      "tags" : {    
+         "name" : "Comunità alloggio Casa Colvera",
+         "operator" : null,
+         "phone" : "+39 0434 550073",
+         "fax" : "+39 0434 550073",
+         "email" : null,
+         "description" : "Comunità alloggio, privata sociale, non convenzionata con SSR; ASS6 - Friuli occidentale, distretto 6.5 Urbano",
+         "capacity" : "14",
+         "capacity:disabled" : null,
+         "social_facility:for" : null,
+         "social_facility" : "group_home"
+         }
+   },
+   {
+      "id"  : 103,
+      "lat" : 46.0967167,
+      "lon" : 12.6827229,
+      "tags" : {    
+         "name" : "Comunità alloggio Il Pellegrin",
+         "operator" : "Comune di Montereale Valcellina ",
+         "phone" : "+39 0427 75300",
+         "fax" : "+39 0427 75300",
+         "email" : "casailpellegrin@gmail.com",
+         "description" : "Comunità alloggio, pubblica comunale, non convenzionata con SSR; ASS6 - Friuli occidentale, distretto 6.4 Nord",
+         "capacity" : "17",
+         "capacity:disabled" : null,
+         "social_facility:for" : null,
+         "social_facility" : "group_home"
+         }
+   },
+   {
+      "id"  : 104,
+      "lat" : 46.279,
+      "lon" : 13.26041,
+      "tags" : {    
+         "name" : "Comunità alloggio anziani - Pradielis 11",
+         "operator" : null,
+         "phone" : "+39 0432 787055",
+         "fax" : "+39 0432 787353",
+         "email" : "comanziani@gmail.com",
+         "description" : "Comunità alloggio, privata sociale, non convenzionata con SSR; ASS4 - Medio Friuli, distretto 4.2 Tarcento",
+         "capacity" : "13",
+         "capacity:disabled" : null,
+         "social_facility:for" : null,
+         "social_facility" : "group_home"
+         }
+   },
+   {
+      "id"  : 105,
+      "lat" : 46.252653,
+      "lon" : 13.273239,
+      "tags" : {    
+         "name" : "Comunità alloggio anziani - Villanova 110",
+         "operator" : null,
+         "phone" : "+39 0432 787069",
+         "fax" : "+39 0432 787353",
+         "email" : "comanziani@gmail.com",
+         "description" : "Comunità alloggio, privata sociale, non convenzionata con SSR; ASS4 - Medio Friuli, distretto 4.2 Tarcento",
+         "capacity" : "13",
+         "capacity:disabled" : null,
+         "social_facility:for" : null,
+         "social_facility" : "group_home"
+         }
+   },
+   {
+      "id"  : 106,
+      "lat" : 46.1883144,
+      "lon" : 13.3047944,
+      "tags" : {    
+         "name" : "Comunità alloggio Attimis",
+         "operator" : null,
+         "phone" : "+39 0432 789593",
+         "fax" : "+39 0432 789593",
+         "email" : "campeglio@universiis.it",
+         "description" : "Comunità alloggio, privata sociale, non convenzionata con SSR; ASS4 - Medio Friuli, distretto 4.2 Tarcento",
+         "capacity" : "10",
+         "capacity:disabled" : null,
+         "social_facility:for" : null,
+         "social_facility" : "group_home"
+         }
+   },
+   {
+      "id"  : 107,
+      "lat" : 46.2469183,
+      "lon" : 13.3383825,
+      "tags" : {    
+         "name" : "Comunità alloggio casa famiglia Taipana",
+         "operator" : "Comune di Taipana ",
+         "phone" : "+39 0432 788054",
+         "fax" : "+39 0432 788054",
+         "email" : null,
+         "description" : "Comunità alloggio, pubblica comunale, non convenzionata con SSR; ASS4 - Medio Friuli, distretto 4.2 Tarcento",
+         "capacity" : "24",
+         "capacity:disabled" : null,
+         "social_facility:for" : null,
+         "social_facility" : "group_home"
+         }
+   },
+   {
+      "id"  : 108,
+      "lat" : 46.0590362,
+      "lon" : 13.2353319,
+      "tags" : {    
+         "name" : "Congregazione Ancelle della carità",
+         "operator" : null,
+         "phone" : "+39 0432 501386",
+         "fax" : "+39 0432 501386",
+         "email" : "s.spiritoudine@gmail.com",
+         "description" : "Residenza ad utenza diversificata, ente religioso, non convenzionata con SSR; ASS4 - Medio Friuli, distretto 4.5 Udine",
+         "capacity" : "51",
+         "capacity:disabled" : "40",
+         "social_facility:for" : "senior;disabled",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 109,
+      "lat" : 45.9396803,
+      "lon" : 13.6143583,
+      "tags" : {    
+         "name" : "Congregazione Suore di Maria M. M. Domus Mariae SS. Reginae",
+         "operator" : null,
+         "phone" : "+39 0481 533888",
+         "fax" : "+39 0481 539758",
+         "email" : "suoredimaria@libero.it",
+         "description" : "Casa albergo, ente religioso, non convenzionata con SSR; ASS2 - Isontina, distretto 2.1 Alto Isontino",
+         "capacity" : "14",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "assisted_living"
+         }
+   },
+   {
+      "id"  : 110,
+      "lat" : 46.1696237,
+      "lon" : 12.9227618,
+      "tags" : {    
+         "name" : "Fondazione Casa per anziani Valeriano",
+         "operator" : null,
+         "phone" : "+39 0432 950643",
+         "fax" : "+39 0432 950643",
+         "email" : "info@studiogiacomello.com",
+         "description" : "Casa albergo, privata sociale, non convenzionata con SSR; ASS6 - Friuli occidentale, distretto 6.4 Nord",
+         "capacity" : "15",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "assisted_living"
+         }
+   },
+   {
+      "id"  : 111,
+      "lat" : 45.97489595,
+      "lon" : 12.801910491303,
+      "tags" : {    
+         "name" : "Fondazione Micoli Toscano",
+         "operator" : null,
+         "phone" : "+39 0434 97187",
+         "fax" : "+39 0434 97243",
+         "email" : "fondazione@micolitoscano.it",
+         "description" : "Residenza protetta, privata sociale, convenzionata con SSR; ASS6 - Friuli occidentale, distretto 6.3 Sud",
+         "capacity" : "108",
+         "capacity:disabled" : "108",
+         "social_facility:for" : "disabled",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 112,
+      "lat" : 45.9949834,
+      "lon" : 12.8683366,
+      "tags" : {    
+         "name" : "Fondazione Opera Colledani-Bulian",
+         "operator" : null,
+         "phone" : "+39 0434 899390",
+         "fax" : "+39 0434 847600",
+         "email" : "colledani-bulian@libero.it",
+         "description" : "Casa albergo, privata sociale, non convenzionata con SSR; ASS6 - Friuli occidentale, distretto 6.2 Est",
+         "capacity" : "25",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "assisted_living"
+         }
+   },
+   {
+      "id"  : 113,
+      "lat" : 45.9538807,
+      "lon" : 13.6173753,
+      "tags" : {    
+         "name" : "Istituto Sacra Famiglia",
+         "operator" : null,
+         "phone" : "+39 0481 530341",
+         "fax" : "+39 0481 545928",
+         "email" : "solskego@tiscali.it",
+         "description" : "Casa albergo, privata sociale, non convenzionata con SSR; ASS2 - Isontina, distretto 2.1 Alto Isontino",
+         "capacity" : "24",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "assisted_living"
+         }
+   },
+   {
+      "id"  : 114,
+      "lat" : 45.6563049,
+      "lon" : 13.7732709,
+      "tags" : {    
+         "name" : "Residenza polifunzionale Cellini",
+         "operator" : null,
+         "phone" : "+39 040 365084",
+         "fax" : "+39 040 365084",
+         "email" : null,
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS1 - Triestina, distretto 1.2 Sud",
+         "capacity" : "23",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 115,
+      "lat" : 46.4132426,
+      "lon" : 12.9292022,
+      "tags" : {    
+         "name" : "Residence Stati Uniti d'America Centro anziani",
+         "operator" : "Comune di Villa Santina ",
+         "phone" : "+39 0433 74364",
+         "fax" : "+39 0433 74364",
+         "email" : null,
+         "description" : "Casa albergo, pubblica comunale, convenzionata con SSR; ASS3 - Alto Friuli, distretto 3.2 Carnia",
+         "capacity" : "96",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "assisted_living"
+         }
+   },
+   {
+      "id"  : 116,
+      "lat" : 46.0047689,
+      "lon" : 13.2154957,
+      "tags" : {    
+         "name" : "Residenza Aurora",
+         "operator" : null,
+         "phone" : "+39 0432 560697",
+         "fax" : "+39 0432 560697",
+         "email" : "francescairis@virgilio.it",
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS4 - Medio Friuli, distretto 4.5 Udine",
+         "capacity" : "10",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 117,
+      "lat" : 45.6470874,
+      "lon" : 13.7673248,
+      "tags" : {    
+         "name" : "Residenza Carducci",
+         "operator" : null,
+         "phone" : "+39 040 763078 - 040 631829",
+         "fax" : "+39 1782714401",
+         "email" : "carducci@residenzeagape.it",
+         "description" : "Residenza polifunzionale con modulo fascia A, privata di mercato, convenzionata con SSR; ASS1 - Triestina, distretto 1.2 Sud",
+         "capacity" : "40",
+         "capacity:disabled" : null,
+         "social_facility:for" : null,
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 118,
+      "lat" : 45.6578496,
+      "lon" : 13.7995734,
+      "tags" : {    
+         "name" : "Residenza E. Gregoretti",
+         "operator" : "Comune di Trieste",
+         "phone" : "+39 040 3593711",
+         "fax" : "+39 040 3593709",
+         "email" : "casa_riposo_gregoretti@comune.trieste.it",
+         "description" : "Residenza protetta, pubblica comunale, convenzionata con SSR; ASS1 - Triestina, distretto 1.4 Nord",
+         "capacity" : "91",
+         "capacity:disabled" : "91",
+         "social_facility:for" : "disabled",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 119,
+      "lat" : 46.0684307,
+      "lon" : 13.2282435,
+      "tags" : {    
+         "name" : "Residenza I Faggi",
+         "operator" : "Residenza I Faggi",
+         "phone" : "+39 0432 514111",
+         "fax" : "+39 0432 287233",
+         "email" : "segreteria@laquieteudine.it",
+         "description" : "Casa albergo, pubblica ASP, non convenzionata con SSR; ASS4 - Medio Friuli, distretto 4.5 Udine",
+         "capacity" : "124",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "assisted_living"
+         }
+   },
+   {
+      "id"  : 120,
+      "lat" : 45.6557739,
+      "lon" : 13.7897493,
+      "tags" : {    
+         "name" : "Residenza Le Magnolie",
+         "operator" : null,
+         "phone" : "+39 040 55307",
+         "fax" : "+39 040 2464893",
+         "email" : "info@residenzalemagnolie.com",
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS1 - Triestina, distretto 1.1 Ovest",
+         "capacity" : "25",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 121,
+      "lat" : 45.6529522,
+      "lon" : 13.7727337,
+      "tags" : {    
+         "name" : "Residenza Le Rose",
+         "operator" : null,
+         "phone" : "+39 040 363360",
+         "fax" : "+39 040 363360",
+         "email" : "susylerose@yahoo.it",
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS1 - Triestina, distretto 1.2 Sud",
+         "capacity" : "25",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 122,
+      "lat" : 46.0265803,
+      "lon" : 13.2585447,
+      "tags" : {    
+         "name" : "Residenza S. Anna",
+         "operator" : null,
+         "phone" : "+39 0432 600649",
+         "fax" : "+39 0432 624001",
+         "email" : "s.annasegreteria@societadolce.it",
+         "description" : "Residenza protetta, privata sociale, convenzionata con SSR; ASS4 - Medio Friuli, distretto 4.5 Udine",
+         "capacity" : "95",
+         "capacity:disabled" : "95",
+         "social_facility:for" : "disabled",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 123,
+      "lat" : 45.6576085,
+      "lon" : 13.774488,
+      "tags" : {    
+         "name" : "Residenza Santa Chiara",
+         "operator" : null,
+         "phone" : "+39 040 413035",
+         "fax" : "+39 040 4526507",
+         "email" : "santachiarats@gmail.com",
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS1 - Triestina, distretto 1.2 Sud",
+         "capacity" : "20",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 124,
+      "lat" : 46.4142574,
+      "lon" : 12.8011084,
+      "tags" : {    
+         "name" : "Residenza per anziani Monsignor Nigris",
+         "operator" : null,
+         "phone" : "+39 0433 80970",
+         "fax" : "+39 0433 811835",
+         "email" : "cdrnigris@universiis.it",
+         "description" : "Residenza protetta, privata sociale, convenzionata con SSR; ASS3 - Alto Friuli, distretto 3.2 Carnia",
+         "capacity" : "37",
+         "capacity:disabled" : "37",
+         "social_facility:for" : "disabled",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 125,
+      "lat" : 45.8015469,
+      "lon" : 13.5230973,
+      "tags" : {    
+         "name" : "Residenza per anziani ad utenza diversificata",
+         "operator" : "Comune di Monfalcone ",
+         "phone" : "+39 0481 494811",
+         "fax" : "+39 0481 494814",
+         "email" : "casaalbergo@comune.monfalcone.go.it",
+         "description" : "Residenza ad utenza diversificata, pubblica comunale, convenzionata con SSR; ASS2 - Isontina, distretto 2.2 Basso Isontino",
+         "capacity" : "62",
+         "capacity:disabled" : "62",
+         "social_facility:for" : "senior;disabled",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 126,
+      "lat" : 46.0926479,
+      "lon" : 13.1842782,
+      "tags" : {    
+         "name" : "Residenza per anziani Zaffiro Martignacco",
+         "operator" : null,
+         "phone" : "+39 0432 407311",
+         "fax" : "+39 0432 410284",
+         "email" : "f.minisini@gruppozaffiro.it",
+         "description" : "Residenza ad utenza diversificata, privata di mercato, convenzionata con SSR; ASS4 - Medio Friuli, distretto 4.5 Udine",
+         "capacity" : "120",
+         "capacity:disabled" : "120",
+         "social_facility:for" : "senior;disabled",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 127,
+      "lat" : 46.1514719,
+      "lon" : 13.0073433,
+      "tags" : {    
+         "name" : "Residenza per persone non autosufficienti di S. Daniele del Friuli",
+         "operator" : "ASS4 - Medio Friuli",
+         "phone" : "+39 0432 969011",
+         "fax" : "+39 0432 969020",
+         "email" : "segreteriacdr.sdaniele@mediofriuli.it",
+         "description" : "Residenza protetta, azienda per i servizi sanitari, convenzionata con SSR; ASS4 - Medio Friuli, distretto 4.1 S.Daniele",
+         "capacity" : "146",
+         "capacity:disabled" : "146",
+         "social_facility:for" : "disabled",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 128,
+      "lat" : 45.6531736,
+      "lon" : 13.7775537,
+      "tags" : {    
+         "name" : "Residenza polifunzionale Albertina",
+         "operator" : null,
+         "phone" : "+39 040 365900",
+         "fax" : "+39 040 365900",
+         "email" : null,
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS1 - Triestina, distretto 1.2 Sud",
+         "capacity" : "25",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 129,
+      "lat" : 45.6510838,
+      "lon" : 13.7706876,
+      "tags" : {    
+         "name" : "Residenza polifunzionale Alida",
+         "operator" : null,
+         "phone" : "+39 040 633054",
+         "fax" : "+39 040 633054",
+         "email" : "massimiliano.liessi@gmail.com",
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS1 - Triestina, distretto 1.2 Sud",
+         "capacity" : "24",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 130,
+      "lat" : 45.6525371,
+      "lon" : 13.7822337,
+      "tags" : {    
+         "name" : "Residenza polifunzionale Anni Sereni",
+         "operator" : null,
+         "phone" : "+39 040 633452",
+         "fax" : "+39 040 633452",
+         "email" : "residenzadanubio@hotmail.it",
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS1 - Triestina, distretto 1.2 Sud",
+         "capacity" : "17",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 131,
+      "lat" : 45.6889019,
+      "lon" : 13.7886165,
+      "tags" : {    
+         "name" : "Residenza polifunzionale Antonella",
+         "operator" : null,
+         "phone" : "+39 040 211188",
+         "fax" : "+39 040 211188",
+         "email" : "residenza.antonella@gmail.com",
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS1 - Triestina, distretto 1.1 Ovest",
+         "capacity" : "20",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 132,
+      "lat" : 45.6518706,
+      "lon" : 13.7795662,
+      "tags" : {    
+         "name" : "Residenza polifunzionale Arianna",
+         "operator" : null,
+         "phone" : "+39 040 660216",
+         "fax" : "+39 040 660216",
+         "email" : "antonello.finelli@libero.it",
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS1 - Triestina, distretto 1.2 Sud",
+         "capacity" : "23",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 133,
+      "lat" : 45.6498786,
+      "lon" : 13.7776709,
+      "tags" : {    
+         "name" : "Residenza polifunzionale Carlo Goldoni",
+         "operator" : null,
+         "phone" : "+39 040 660319",
+         "fax" : "+39 040 660319",
+         "email" : "residenzadanubio@hotmail.it",
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS1 - Triestina, distretto 1.4 Nord",
+         "capacity" : "13",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 134,
+      "lat" : 45.6525371,
+      "lon" : 13.7822337,
+      "tags" : {    
+         "name" : "Residenza polifunzionale Casa Favretto",
+         "operator" : null,
+         "phone" : "+39 040 635338",
+         "fax" : null,
+         "email" : "triesteamministrazione@societadolce.it",
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS1 - Triestina, distretto 1.2 Sud",
+         "capacity" : "18",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 135,
+      "lat" : 45.6525883,
+      "lon" : 13.7727586,
+      "tags" : {    
+         "name" : "Residenza polifunzionale Casa Maria 2",
+         "operator" : null,
+         "phone" : "+39 040 3478323",
+         "fax" : "+39 040 0641930",
+         "email" : "residenzadanubio@hotmail.it",
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS1 - Triestina, distretto 1.2 Sud",
+         "capacity" : "17",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 136,
+      "lat" : 45.6586107,
+      "lon" : 13.7736633,
+      "tags" : {    
+         "name" : "Residenza polifunzionale Casa Rosanna",
+         "operator" : null,
+         "phone" : "+39 040 420124",
+         "fax" : "+39 040 420124",
+         "email" : "triesteamministrazione@societadolce.it",
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS1 - Triestina, distretto 1.2 Sud",
+         "capacity" : "47",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 137,
+      "lat" : 45.6534619,
+      "lon" : 13.7719203,
+      "tags" : {    
+         "name" : "Residenza polifunzionale Cinque Stelle",
+         "operator" : null,
+         "phone" : "+39 040 3478042",
+         "fax" : "+39 040 3478042",
+         "email" : "cinquestelletrieste@gmail.com",
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS1 - Triestina, distretto 1.2 Sud",
+         "capacity" : "20",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 138,
+      "lat" : 45.6523624,
+      "lon" : 13.7741472,
+      "tags" : {    
+         "name" : "Residenza polifunzionale Dalila",
+         "operator" : null,
+         "phone" : "+39 040 662584",
+         "fax" : "+39 040 662584",
+         "email" : "g.pesarino@virgilio.it",
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS1 - Triestina, distretto 1.2 Sud",
+         "capacity" : "12",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 139,
+      "lat" : 45.6529377,
+      "lon" : 13.7786473,
+      "tags" : {    
+         "name" : "Residenza polifunzionale Danubio",
+         "operator" : null,
+         "phone" : "+39 040 661385",
+         "fax" : "+39 040 661385",
+         "email" : "residenzadanubio@hotmail.it",
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS1 - Triestina, distretto 1.2 Sud",
+         "capacity" : "9",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 140,
+      "lat" : 45.6532255,
+      "lon" : 13.7753511,
+      "tags" : {    
+         "name" : "Residenza polifunzionale Diamante",
+         "operator" : null,
+         "phone" : "+39 040 638851",
+         "fax" : "+39 040 638851",
+         "email" : "wally-s@email.it",
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS1 - Triestina, distretto 1.2 Sud",
+         "capacity" : "16",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 141,
+      "lat" : 45.6476237,
+      "lon" : 13.7789577,
+      "tags" : {    
+         "name" : "Residenza polifunzionale Eden",
+         "operator" : null,
+         "phone" : "+39 040 369123",
+         "fax" : "+39 040 369123",
+         "email" : "info@residenzaeden.it",
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS1 - Triestina, distretto 1.4 Nord",
+         "capacity" : "30",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 142,
+      "lat" : 45.6524111,
+      "lon" : 13.7801439,
+      "tags" : {    
+         "name" : "Residenza polifunzionale Elite",
+         "operator" : null,
+         "phone" : "+39 040 3481488",
+         "fax" : "+39 040 3481488",
+         "email" : "casadiriposoelite@libero.it",
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS1 - Triestina, distretto 1.2 Sud",
+         "capacity" : "18",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 143,
+      "lat" : 45.6526287,
+      "lon" : 13.7732159,
+      "tags" : {    
+         "name" : "Residenza polifunzionale Fiore di Sabrina Cossutta & C.",
+         "operator" : null,
+         "phone" : "+39 040 661577",
+         "fax" : "+39 040 661577",
+         "email" : "sabrina.cossutta@gmail.com",
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS1 - Triestina, distretto 1.2 Sud",
+         "capacity" : "14",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 144,
+      "lat" : 45.6496572,
+      "lon" : 13.7781693,
+      "tags" : {    
+         "name" : "Residenza polifunzionale Flora 2",
+         "operator" : null,
+         "phone" : "+39 040 7600444",
+         "fax" : "+39 040 7600444",
+         "email" : "res.flora@libero.it",
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS1 - Triestina, distretto 1.4 Nord",
+         "capacity" : "21",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 145,
+      "lat" : 45.6531736,
+      "lon" : 13.7775537,
+      "tags" : {    
+         "name" : "Residenza polifunzionale Futura",
+         "operator" : null,
+         "phone" : "+39 040 660996",
+         "fax" : null,
+         "email" : "linea.dieci@libero.it",
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS1 - Triestina, distretto 1.2 Sud",
+         "capacity" : "25",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 146,
+      "lat" : 45.653481,
+      "lon" : 13.7734271,
+      "tags" : {    
+         "name" : "Residenza polifunzionale Il nido",
+         "operator" : null,
+         "phone" : "+39 040 638879",
+         "fax" : "+39 040 639566",
+         "email" : "maura.cettina@libero.it",
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS1 - Triestina, distretto 1.2 Sud",
+         "capacity" : "20",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 147,
+      "lat" : 45.6489515,
+      "lon" : 13.7773065,
+      "tags" : {    
+         "name" : "Residenza polifunzionale La Dolce Vita",
+         "operator" : null,
+         "phone" : "+39 040 636960",
+         "fax" : "+39 040 636960",
+         "email" : "ladolcevita.trieste@gmail.com",
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS1 - Triestina, distretto 1.4 Nord",
+         "capacity" : "18",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 148,
+      "lat" : 46.1806356,
+      "lon" : 12.9442567,
+      "tags" : {    
+         "name" : "Residenza polifunzionale La Panoramica",
+         "operator" : null,
+         "phone" : "+39 0432 950854",
+         "fax" : "+39 0432 873463",
+         "email" : "info@lapanoramica.org",
+         "description" : "Residenza polifunzionale con modulo fascia A, privata di mercato, convenzionata con SSR; ASS6 - Friuli occidentale, distretto 6.4 Nord",
+         "capacity" : "25",
+         "capacity:disabled" : null,
+         "social_facility:for" : null,
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 149,
+      "lat" : 45.6532944,
+      "lon" : 13.7813452,
+      "tags" : {    
+         "name" : "Residenza Polifunzionale Moschion  (1° piano)",
+         "operator" : null,
+         "phone" : "+39 040 631144",
+         "fax" : "+39 040 368423",
+         "email" : "residenzamoschion@libero.it",
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS1 - Triestina, distretto 1.2 Sud",
+         "capacity" : "18",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 150,
+      "lat" : 45.6532944,
+      "lon" : 13.7813452,
+      "tags" : {    
+         "name" : "Residenza polifunzionale Moschion (2° piano)",
+         "operator" : null,
+         "phone" : "+39 040 631144",
+         "fax" : "+39 040 368423",
+         "email" : "residenzamoschion@libero.it",
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS1 - Triestina, distretto 1.2 Sud",
+         "capacity" : "20",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 151,
+      "lat" : 45.6534619,
+      "lon" : 13.7719203,
+      "tags" : {    
+         "name" : "Residenza polifunzionale Nonna Adriana",
+         "operator" : null,
+         "phone" : "+39 040 362961",
+         "fax" : null,
+         "email" : "emanuela.cigui@gmail.com",
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS1 - Triestina, distretto 1.2 Sud",
+         "capacity" : "25",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 152,
+      "lat" : 45.6524642,
+      "lon" : 13.7732031,
+      "tags" : {    
+         "name" : "Residenza polifunzionale Oasis",
+         "operator" : null,
+         "phone" : "+39 040 367063",
+         "fax" : "+39 040 367063",
+         "email" : "residenzadanubio@hotmail.it",
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS1 - Triestina, distretto 1.2 Sud",
+         "capacity" : "17",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 153,
+      "lat" : 45.6530767,
+      "lon" : 13.7743629,
+      "tags" : {    
+         "name" : "Residenza polifunzionale Primavera",
+         "operator" : null,
+         "phone" : "+39 040 7606118",
+         "fax" : "+39 040 7606118",
+         "email" : "residenza.primavera@libero.it",
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS1 - Triestina, distretto 1.2 Sud",
+         "capacity" : "12",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 154,
+      "lat" : 45.6532944,
+      "lon" : 13.7813452,
+      "tags" : {    
+         "name" : "Residenza polifunzionale Raggio di Sole",
+         "operator" : null,
+         "phone" : "+39 040 661758",
+         "fax" : "+39 040 372298",
+         "email" : "info@residenzaraggiodisolets.it",
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS1 - Triestina, distretto 1.2 Sud",
+         "capacity" : "52",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 155,
+      "lat" : 45.6491921,
+      "lon" : 13.7799578,
+      "tags" : {    
+         "name" : "Residenza polifunzionale Relax",
+         "operator" : null,
+         "phone" : "+39 040 365070",
+         "fax" : "+39 040 365070",
+         "email" : "residenzerelax@vodafone.it",
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS1 - Triestina, distretto 1.4 Nord",
+         "capacity" : "25",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 156,
+      "lat" : 45.6537922,
+      "lon" : 13.7752696,
+      "tags" : {    
+         "name" : "Residenza polifunzionale Relax",
+         "operator" : null,
+         "phone" : "+39 040 363135",
+         "fax" : null,
+         "email" : "residenzarelax@vodafone.it",
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS1 - Triestina, distretto 1.2 Sud",
+         "capacity" : "20",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 157,
+      "lat" : 45.6501794,
+      "lon" : 13.7744428,
+      "tags" : {    
+         "name" : "Residenza polifunzionale Renè",
+         "operator" : null,
+         "phone" : "+39 040 637204",
+         "fax" : "+39 040 637204",
+         "email" : "andreja.vagaja@telemach.net",
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS1 - Triestina, distretto 1.2 Sud",
+         "capacity" : "11",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 158,
+      "lat" : 45.6522454,
+      "lon" : 13.7763756,
+      "tags" : {    
+         "name" : "Residenza polifunzionale Rosy",
+         "operator" : null,
+         "phone" : "+39 040 632792",
+         "fax" : null,
+         "email" : null,
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS1 - Triestina, distretto 1.2 Sud",
+         "capacity" : "11",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 159,
+      "lat" : 45.653552,
+      "lon" : 13.7750108,
+      "tags" : {    
+         "name" : "Residenza polifunzionale S. Giusto",
+         "operator" : null,
+         "phone" : "+39 040 638949",
+         "fax" : null,
+         "email" : null,
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS1 - Triestina, distretto 1.2 Sud",
+         "capacity" : "11",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 160,
+      "lat" : 45.6531736,
+      "lon" : 13.7775537,
+      "tags" : {    
+         "name" : "Residenza polifunzionale Senilità",
+         "operator" : null,
+         "phone" : "+39 040 366766",
+         "fax" : null,
+         "email" : "linea.dieci@libero.it",
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS1 - Triestina, distretto 1.2 Sud",
+         "capacity" : "25",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 161,
+      "lat" : 45.6219896,
+      "lon" : 13.8377833,
+      "tags" : {    
+         "name" : "Residenza polifunzionale Tiziana",
+         "operator" : null,
+         "phone" : "+39 040 280986",
+         "fax" : "+39 040 280986",
+         "email" : "residenzadanubio@hotmail.it",
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS1 - Triestina, distretto 1.3 Est",
+         "capacity" : "20",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 162,
+      "lat" : 45.653481,
+      "lon" : 13.7734271,
+      "tags" : {    
+         "name" : "Residenza polifunzionale Valdirivo",
+         "operator" : null,
+         "phone" : "+39 040 3728722",
+         "fax" : "+39 040 37208722",
+         "email" : "info@residenzaeden.it",
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS1 - Triestina, distretto 1.2 Sud",
+         "capacity" : "20",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 163,
+      "lat" : 45.6541869,
+      "lon" : 13.7811427,
+      "tags" : {    
+         "name" : "Residenza polifunzionale Valy",
+         "operator" : null,
+         "phone" : "+39 040 635414",
+         "fax" : "+39 040 635414",
+         "email" : "residenzadanubio@hotmail.it",
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS1 - Triestina, distretto 1.2 Sud",
+         "capacity" : "16",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 164,
+      "lat" : 45.6530977,
+      "lon" : 13.7843191,
+      "tags" : {    
+         "name" : "Residenza polifunzionale Zovenzoni",
+         "operator" : null,
+         "phone" : "+39 040 634546",
+         "fax" : "+39 040 634545",
+         "email" : "residenzadanubio@hotmail.it",
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS1 - Triestina, distretto 1.2 Sud",
+         "capacity" : "22",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 165,
+      "lat" : 46.1312139,
+      "lon" : 13.356347,
+      "tags" : {    
+         "name" : "Residenza polifunzionale di Campeglio",
+         "operator" : null,
+         "phone" : "+39 0432 711191",
+         "fax" : "+39 0432 711956",
+         "email" : "campeglio@universiis.it",
+         "description" : "Residenza polifunzionale, privata sociale, non convenzionata con SSR; ASS4 - Medio Friuli, distretto 4.2 Tarcento",
+         "capacity" : "24",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 166,
+      "lat" : 45.6563049,
+      "lon" : 13.7732709,
+      "tags" : {    
+         "name" : "Residenza polifunzionale per anziani Arcobaleno",
+         "operator" : null,
+         "phone" : "+39 040 362013",
+         "fax" : "+39 040 362013",
+         "email" : "residenza.arcobaleno@virgilio.it",
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS1 - Triestina, distretto 1.2 Sud",
+         "capacity" : "34",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 167,
+      "lat" : 45.65272,
+      "lon" : 13.773935,
+      "tags" : {    
+         "name" : "Residenza polifunzionale per anziani Flora",
+         "operator" : null,
+         "phone" : "+39 040 361385",
+         "fax" : "+39 040 361385",
+         "email" : "res.flora@libero.it",
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS1 - Triestina, distretto 1.2 Sud",
+         "capacity" : "12",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 168,
+      "lat" : 45.6563049,
+      "lon" : 13.7732709,
+      "tags" : {    
+         "name" : "Residenza polifunzionale per anziani Le Ginestre",
+         "operator" : null,
+         "phone" : "+39 040 773614",
+         "fax" : "+39 040 773614",
+         "email" : "miramare.ts@virgilio.it",
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS1 - Triestina, distretto 1.2 Sud",
+         "capacity" : "17",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 169,
+      "lat" : 45.6563049,
+      "lon" : 13.7732709,
+      "tags" : {    
+         "name" : "Residenza polifunzionale per anziani Miramare",
+         "operator" : null,
+         "phone" : "+39 040 3726410",
+         "fax" : "+39 040 3721896",
+         "email" : "miramare.ts@virgilio.it",
+         "description" : "Residenza polifunzionale, privata di mercato, non convenzionata con SSR; ASS1 - Triestina, distretto 1.2 Sud",
+         "capacity" : "32",
+         "capacity:disabled" : null,
+         "social_facility:for" : "senior",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 170,
+      "lat" : 46.0822959,
+      "lon" : 13.2365429,
+      "tags" : {    
+         "name" : "Residenza protetta Caris",
+         "operator" : null,
+         "phone" : "+39 0432 484736",
+         "fax" : "+39 0432 487616",
+         "email" : "carisa@societadolce.it",
+         "description" : "Residenza protetta, privata sociale, convenzionata con SSR; ASS4 - Medio Friuli, distretto 4.5 Udine",
+         "capacity" : "60",
+         "capacity:disabled" : "60",
+         "social_facility:for" : "disabled",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 171,
+      "lat" : 45.8270316,
+      "lon" : 13.5029868,
+      "tags" : {    
+         "name" : "Residenza protetta D. Corradini",
+         "operator" : "Comune di Ronchi dei Legionari ",
+         "phone" : "+39 0481 474577",
+         "fax" : "+39 0481 475109",
+         "email" : "info@casanzianironchi.191.it",
+         "description" : "Residenza protetta, pubblica tra comuni associati, convenzionata con SSR; ASS2 - Isontina, distretto 2.2 Basso Isontino",
+         "capacity" : "66",
+         "capacity:disabled" : "66",
+         "social_facility:for" : "disabled",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 172,
+      "lat" : 45.9601496,
+      "lon" : 13.4620777,
+      "tags" : {    
+         "name" : "Residenza protetta Cormons",
+         "operator" : "ASS2 - Isontina",
+         "phone" : "+39 0481 629201",
+         "fax" : "+39 0481 629220",
+         "email" : "distai@ass2.sanita.fvg.it",
+         "description" : "Residenza protetta, azienda per i servizi sanitari, convenzionata con SSR; ASS2 - Isontina, distretto 2.1 Alto Isontino",
+         "capacity" : "34",
+         "capacity:disabled" : "34",
+         "social_facility:for" : "disabled",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 173,
+      "lat" : 46.213884,
+      "lon" : 13.222164,
+      "tags" : {    
+         "name" : "Residenza Zaffiro Colle Verzan",
+         "operator" : null,
+         "phone" : "+39 0432 781800",
+         "fax" : "+39 0432 755148",
+         "email" : "f.minisini@gruppozaffiro.it",
+         "description" : "Residenza ad utenza diversificata, privata di mercato, convenzionata con SSR; ASS4 - Medio Friuli, distretto 4.2 Tarcento",
+         "capacity" : "158",
+         "capacity:disabled" : "120",
+         "social_facility:for" : "senior;disabled",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 174,
+      "lat" : 45.9734825,
+      "lon" : 13.2544203,
+      "tags" : {    
+         "name" : "Sereni Orizzonti Giacinto Blasoni di Risano",
+         "operator" : null,
+         "phone" : "+39 0432 564709",
+         "fax" : "+39 0432 564709",
+         "email" : "risano@sereniorizzonti.it",
+         "description" : "Residenza polifunzionale con modulo fascia A, privata di mercato, convenzionata con SSR; ASS4 - Medio Friuli, distretto 4.5 Udine",
+         "capacity" : "33",
+         "capacity:disabled" : null,
+         "social_facility:for" : null,
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 175,
+      "lat" : 46.0556863,
+      "lon" : 13.2380929,
+      "tags" : {    
+         "name" : "Sereni Orizzonti Santa Chiara",
+         "operator" : null,
+         "phone" : "+39 0432 229223",
+         "fax" : "+39 0432 298581",
+         "email" : "udine.santachiara@sereniorizzonti.it",
+         "description" : "Residenza polifunzionale con modulo fascia A, privata di mercato, convenzionata con SSR; ASS4 - Medio Friuli, distretto 4.5 Udine",
+         "capacity" : "25",
+         "capacity:disabled" : null,
+         "social_facility:for" : null,
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 176,
+      "lat" : 45.872154,
+      "lon" : 13.366783,
+      "tags" : {    
+         "name" : "Sereni Orizzonti Aiello",
+         "operator" : null,
+         "phone" : "+39 0431 99019",
+         "fax" : "+39 0431 99332",
+         "email" : "aiello@sereniorizzonti.it",
+         "description" : "Residenza protetta, privata di mercato, convenzionata con SSR; ASS5 - Bassa Friulana, distretto 5.1 Est",
+         "capacity" : "118",
+         "capacity:disabled" : "118",
+         "social_facility:for" : "disabled",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 177,
+      "lat" : 46.2725858,
+      "lon" : 13.1298788,
+      "tags" : {    
+         "name" : "Sereni Orizzonti Gemona",
+         "operator" : null,
+         "phone" : "+39 0432 971520",
+         "fax" : "+39 0432 970263",
+         "email" : "gemona@sereniorizzonti.it",
+         "description" : "Residenza polifunzionale con modulo fascia A, privata di mercato, convenzionata con SSR; ASS3 - Alto Friuli, distretto 3.1 Gemonese",
+         "capacity" : "60",
+         "capacity:disabled" : null,
+         "social_facility:for" : null,
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 178,
+      "lat" : 46.0543842,
+      "lon" : 13.2294351,
+      "tags" : {    
+         "name" : "Sereni Orizzonti P.le Cella",
+         "operator" : null,
+         "phone" : "+39 0432 532304",
+         "fax" : "+39 0432 532304",
+         "email" : "udine.cella@sereniorizzonti.it",
+         "description" : "Residenza polifunzionale con modulo fascia A, privata di mercato, convenzionata con SSR; ASS4 - Medio Friuli, distretto 4.5 Udine",
+         "capacity" : "46",
+         "capacity:disabled" : null,
+         "social_facility:for" : null,
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 179,
+      "lat" : 45.975041,
+      "lon" : 13.3269754,
+      "tags" : {    
+         "name" : "Sereni Orizzonti Percoto",
+         "operator" : null,
+         "phone" : "+39 0432 676898",
+         "fax" : "+39 0432 676898",
+         "email" : "percoto@sereniorizzonti.it",
+         "description" : "Residenza polifunzionale con modulo fascia A, privata di mercato, convenzionata con SSR; ASS4 - Medio Friuli, distretto 4.5 Udine",
+         "capacity" : "50",
+         "capacity:disabled" : null,
+         "social_facility:for" : null,
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 180,
+      "lat" : 45.8113789,
+      "lon" : 13.4439118,
+      "tags" : {    
+         "name" : "Sereni Orizzonti Pieris",
+         "operator" : null,
+         "phone" : "+39 0481 767245",
+         "fax" : "+39 0481 470072",
+         "email" : "pieris2@sereniorizzonti.it",
+         "description" : "Residenza polifunzionale con modulo fascia A, privata di mercato, convenzionata con SSR; ASS2 - Isontina, distretto 2.2 Basso Isontino",
+         "capacity" : "60",
+         "capacity:disabled" : null,
+         "social_facility:for" : null,
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 181,
+      "lat" : 45.9753306,
+      "lon" : 13.3974916,
+      "tags" : {    
+         "name" : "Sereni Orizzonti San Giovanni al Natisone",
+         "operator" : null,
+         "phone" : "+39 0432 757378",
+         "fax" : "+39 0432 757359",
+         "email" : "sangiovanni@sereniorizzonti.it",
+         "description" : "Residenza polifunzionale con modulo fascia A, privata di mercato, convenzionata con SSR; ASS4 - Medio Friuli, distretto 4.3 Cividale",
+         "capacity" : "80",
+         "capacity:disabled" : null,
+         "social_facility:for" : null,
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 182,
+      "lat" : 46.0587361,
+      "lon" : 13.2220023,
+      "tags" : {    
+         "name" : "Sereni Orizzonti Via Podgora",
+         "operator" : null,
+         "phone" : "+39 0432 235612",
+         "fax" : "+39 0432 532844",
+         "email" : "udine.podgora@sereniorizzonti.it",
+         "description" : "Residenza polifunzionale con modulo fascia A, privata di mercato, convenzionata con SSR; ASS4 - Medio Friuli, distretto 4.5 Udine",
+         "capacity" : "60",
+         "capacity:disabled" : null,
+         "social_facility:for" : null,
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 183,
+      "lat" : 46.0582013,
+      "lon" : 13.2468817,
+      "tags" : {    
+         "name" : "Sereni Orizzonti Viale XXIII Marzo",
+         "operator" : null,
+         "phone" : "+39 0432 502104",
+         "fax" : "+39 0432 502104",
+         "email" : "udine.23marzo@sereniorizzonti.it",
+         "description" : "Residenza polifunzionale con modulo fascia A, privata di mercato, convenzionata con SSR; ASS4 - Medio Friuli, distretto 4.5 Udine",
+         "capacity" : "24",
+         "capacity:disabled" : null,
+         "social_facility:for" : null,
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 184,
+      "lat" : 46.0732571,
+      "lon" : 12.5498732,
+      "tags" : {    
+         "name" : "Servizio Sperimentale Pra de Plana Sereni Orizzonti",
+         "operator" : null,
+         "phone" : "+39 0434 652552",
+         "fax" : "+39 0434 652427",
+         "email" : "aviano@sereniorizzonti.it",
+         "description" : "Abitare possibile, privata di mercato, convenzionata con SSR; ASS6 - Friuli occidentale, distretto 6.1 Ovest",
+         "capacity" : "50",
+         "capacity:disabled" : "25",
+         "social_facility:for" : null,
+         "social_facility" : null
+         }
+   },
+   {
+      "id"  : 185,
+      "lat" : 45.8671711,
+      "lon" : 13.4831947,
+      "tags" : {    
+         "name" : "Struttura per anziani De Gressi",
+         "operator" : "Comune di Fogliano - Redipuglia ",
+         "phone" : "+39 0481 489856",
+         "fax" : "+39 0481 489856",
+         "email" : "info@casanzianironchi.191.it",
+         "description" : "Residenza ad utenza diversificata, pubblica tra comuni associati, convenzionata con SSR; ASS2 - Isontina, distretto 2.2 Basso Isontino",
+         "capacity" : "18",
+         "capacity:disabled" : "8",
+         "social_facility:for" : "senior;disabled",
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 186,
+      "lat" : 46.1983881,
+      "lon" : 13.2653198,
+      "tags" : {    
+         "name" : "Villa Nimis",
+         "operator" : null,
+         "phone" : "+39 0432 790113",
+         "fax" : "+39 0432 797970",
+         "email" : "progesco@libero.it",
+         "description" : "Residenza polifunzionale con modulo fascia A, privata sociale, convenzionata con SSR; ASS4 - Medio Friuli, distretto 4.2 Tarcento",
+         "capacity" : "60",
+         "capacity:disabled" : null,
+         "social_facility:for" : null,
+         "social_facility" : "nursing_home"
+         }
+   },
+   {
+      "id"  : 187,
+      "lat" : 46.2283415,
+      "lon" : 13.1774094,
+      "tags" : {    
+         "name" : "Zaffiro Casa anziani Nelson Rockefeller",
+         "operator" : null,
+         "phone" : "+39 0432 781222",
+         "fax" : "+39 0432 782010",
+         "email" : "f.minisini@gruppozaffiro.it",
+         "description" : "Residenza ad utenza diversificata, privata di mercato, convenzionata con SSR; ASS4 - Medio Friuli, distretto 4.2 Tarcento",
+         "capacity" : "150",
+         "capacity:disabled" : "120",
+         "social_facility:for" : "senior;disabled",
+         "social_facility" : "nursing_home"
+         }
+   }]

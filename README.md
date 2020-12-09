@@ -11,3 +11,8 @@ Most important and frequent adjustments are on address field: Nominatim geocoder
 Adjustments on phone/fax format and quotes removal also.
 
 Due to the limited size (189) of the dataset, a manual import has been planned by use of a dedicated umap.
+
+## conflation
+
+extraction query social_facility:
+http://overpass-turbo.eu/s/10Wa

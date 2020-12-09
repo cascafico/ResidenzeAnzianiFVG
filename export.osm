@@ -1,0 +1,1986 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="Overpass API 0.7.56.7 b85c4387">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2020-12-07T13:47:03Z" areas="2020-12-07T13:12:03Z"/>
+
+  <node id="6212831014" lat="45.9625703" lon="12.9958816" version="1" timestamp="2019-01-16T10:03:21Z" changeset="66357250" uid="281699" user="hobbie">
+    <tag k="amenity" v="social_facility"/>
+    <tag k="name" v="Centro Salute Mentale (CSM)"/>
+    <tag k="social_facility" v="nursing_home"/>
+    <tag k="social_facility:for" v="mental_health"/>
+  </node>
+  <node id="6212831015" lat="45.9614568" lon="12.9958676" version="1" timestamp="2019-01-16T10:03:21Z" changeset="66357250" uid="281699" user="hobbie">
+    <tag k="amenity" v="social_facility"/>
+    <tag k="name" v="RSA Codroipo"/>
+    <tag k="social_facility" v="nursing_home"/>
+    <tag k="social_facility:for" v="senior"/>
+  </node>
+  <node id="7527291660" lat="46.0553595" lon="13.1930277" version="1" timestamp="2020-05-16T21:02:51Z" changeset="85317184" uid="3821761" user="Gabriele Dri">
+    <tag k="amenity" v="social_facility"/>
+    <tag k="name" v="Sereni Orizzonti"/>
+    <tag k="social_facility" v="group_home"/>
+    <tag k="social_facility:for" v="senior"/>
+  </node>
+  <node id="4250252403" lat="46.0772477" lon="13.2042254" version="1" timestamp="2016-06-18T12:15:09Z" changeset="40114621" uid="447242" user="Diego Cruciat">
+    <tag k="amenity" v="social_facility"/>
+    <tag k="name" v="Aracon Coopertiva Sociale"/>
+  </node>
+  <node id="4385165260" lat="46.0329764" lon="13.2249074" version="1" timestamp="2016-09-05T11:41:13Z" changeset="41928726" uid="447242" user="Diego Cruciat">
+    <tag k="amenity" v="social_facility"/>
+    <tag k="name" v="Uffici delle Cooperative Sociali"/>
+  </node>
+  <node id="3301570174" lat="46.0478292" lon="13.2305213" version="1" timestamp="2015-01-20T23:01:42Z" changeset="28296215" uid="1197992" user="chip_e_chop">
+    <tag k="addr:city" v="Udine"/>
+    <tag k="addr:housenumber" v="87"/>
+    <tag k="addr:street" v="Via Lumignacco"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="name" v="Osteria e alimentare San Pietro"/>
+    <tag k="operator" v="Locale Storico del Friuli Venezia Giulia"/>
+    <tag k="social_facility" v="food_bank"/>
+  </node>
+  <node id="2705391205" lat="45.9754157" lon="13.3974357" version="1" timestamp="2014-03-07T11:12:12Z" changeset="20967356" uid="361003" user="Cascafico">
+    <tag k="amenity" v="social_facility"/>
+    <tag k="name" v="Sereni Orizzonti"/>
+    <tag k="social_facility" v="group_home"/>
+    <tag k="social_facility:for" v="senior"/>
+  </node>
+  <node id="3748984843" lat="46.0543532" lon="13.2281241" version="2" timestamp="2019-05-06T08:51:22Z" changeset="69927341" uid="3821761" user="Gabriele Dri">
+    <tag k="addr:city" v="Udine"/>
+    <tag k="addr:housenumber" v="36"/>
+    <tag k="addr:postcode" v="33100"/>
+    <tag k="addr:street" v="Via Pacifico Valussi"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="name" v="Informanziani"/>
+  </node>
+  <node id="3748948718" lat="46.0601212" lon="13.2292391" version="2" timestamp="2018-08-07T17:17:18Z" changeset="61441731" uid="3821761" user="Gabriele Dri">
+    <tag k="addr:city" v="Udine"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="33100"/>
+    <tag k="addr:street" v="Piazzale 26 luglio 1866"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="name" v="Assixto"/>
+  </node>
+  <node id="6149774433" lat="46.0618414" lon="13.2278062" version="1" timestamp="2018-12-20T13:38:47Z" changeset="65640651" uid="3821761" user="Gabriele Dri">
+    <tag k="amenity" v="social_facility"/>
+    <tag k="name" v="Centro solidarietà giovani &quot;Giovanni Micesio&quot;"/>
+  </node>
+  <node id="6638803390" lat="46.0613126" lon="13.2276787" version="3" timestamp="2019-10-01T03:13:07Z" changeset="75125534" uid="238419" user="HubMiner">
+    <tag k="amenity" v="social_facility"/>
+    <tag k="name" v="Gruppi di Volontariato Vincenziano"/>
+    <tag k="opening_hours" v="Tu-We 09:00-10:30"/>
+    <tag k="social_facility" v="clothing_bank"/>
+  </node>
+  <node id="3748979937" lat="46.0684307" lon="13.2282435" version="2" timestamp="2019-07-18T12:32:50Z" changeset="72388590" uid="3821761" user="Gabriele Dri">
+    <tag k="addr:city" v="Udine"/>
+    <tag k="addr:housenumber" v="31"/>
+    <tag k="addr:postcode" v="33100"/>
+    <tag k="addr:street" v="Via Giovanni Micesio"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="name" v="Residenza I Faggi"/>
+    <tag k="social_facility" v="group_home"/>
+    <tag k="social_facility:for" v="senior"/>
+  </node>
+  <node id="6638799881" lat="46.0655143" lon="13.2328896" version="1" timestamp="2019-07-22T20:50:12Z" changeset="72531294" uid="3821761" user="Gabriele Dri">
+    <tag k="amenity" v="social_facility"/>
+    <tag k="name" v="Caido"/>
+  </node>
+  <node id="6646516741" lat="46.0711696" lon="13.2332688" version="1" timestamp="2019-07-25T12:24:27Z" changeset="72642580" uid="3821761" user="Gabriele Dri">
+    <tag k="amenity" v="social_facility"/>
+    <tag k="name" v="Agenzia sphera"/>
+  </node>
+  <node id="6646658338" lat="46.0710263" lon="13.2381562" version="1" timestamp="2019-07-25T13:10:55Z" changeset="72644873" uid="3821761" user="Gabriele Dri">
+    <tag k="amenity" v="social_facility"/>
+    <tag k="name" v="Residenza Argentea"/>
+    <tag k="social_facility" v="group_home"/>
+    <tag k="social_facility:for" v="senior"/>
+  </node>
+  <node id="3748997850" lat="46.0594922" lon="13.2446707" version="3" timestamp="2020-06-09T07:36:20Z" changeset="86391170" uid="361003" user="Cascafico">
+    <tag k="addr:city" v="Udine"/>
+    <tag k="addr:housenumber" v="44a"/>
+    <tag k="addr:postcode" v="33100"/>
+    <tag k="addr:street" v="Viale Ungheria"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="name" v="UdinAiuta"/>
+    <tag k="social_facility" v="outreach"/>
+    <tag k="website" v="http://udinaiuta.it"/>
+  </node>
+  <node id="3748954598" lat="46.0590613" lon="13.2455307" version="2" timestamp="2019-07-31T15:32:51Z" changeset="72862540" uid="3821761" user="Gabriele Dri">
+    <tag k="addr:city" v="Udine"/>
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:postcode" v="33100"/>
+    <tag k="addr:street" v="Via Bertaldia"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="name" v="Coopservizi Group Fvg"/>
+  </node>
+  <node id="3749064984" lat="46.0638472" lon="13.2466597" version="2" timestamp="2019-07-23T14:25:24Z" changeset="72561843" uid="3821761" user="Gabriele Dri">
+    <tag k="addr:city" v="Udine"/>
+    <tag k="addr:housenumber" v="89"/>
+    <tag k="addr:postcode" v="33100"/>
+    <tag k="addr:street" v="Viale Trieste"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="name" v="Codess"/>
+  </node>
+  <node id="6640789473" lat="46.0623653" lon="13.2471448" version="1" timestamp="2019-07-23T14:25:24Z" changeset="72561843" uid="3821761" user="Gabriele Dri">
+    <tag k="amenity" v="social_facility"/>
+    <tag k="name" v="PrivatAssistenza"/>
+  </node>
+  <node id="3748952077" lat="46.0698451" lon="13.2390878" version="2" timestamp="2019-07-25T14:56:10Z" changeset="72650475" uid="3821761" user="Gabriele Dri">
+    <tag k="addr:city" v="Udine"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:postcode" v="33100"/>
+    <tag k="addr:street" v="Viale Armando Diaz"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="name" v="Casa della madre e del bambino"/>
+  </node>
+  <node id="6640789475" lat="46.0685460" lon="13.2450360" version="1" timestamp="2019-07-23T14:25:24Z" changeset="72561843" uid="3821761" user="Gabriele Dri">
+    <tag k="amenity" v="social_facility"/>
+    <tag k="name" v="Vivere insieme"/>
+  </node>
+  <node id="8193807325" lat="46.2526530" lon="13.2732390" version="1" timestamp="2020-12-04T11:09:26Z" changeset="95289661" uid="361003" user="Cascafico">
+    <tag k="amenity" v="social_facility"/>
+    <tag k="capacity" v="13"/>
+    <tag k="description" v="Comunità alloggio privata sociale non convenzionata con SSR"/>
+    <tag k="email" v="comanziani@gmail.com"/>
+    <tag k="fax" v="+39 0432 787353"/>
+    <tag k="name" v="Comunità alloggio anziani - Villanova 110"/>
+    <tag k="phone" v="+39 0432 787069"/>
+    <tag k="social_facility:for" v="senior"/>
+  </node>
+  <node id="8190598083" lat="46.2469587" lon="13.3384619" version="2" timestamp="2020-12-04T11:10:27Z" changeset="95289720" uid="361003" user="Cascafico">
+    <tag k="amenity" v="social_facility"/>
+    <tag k="capacity" v="24"/>
+    <tag k="description" v="Comunità alloggio pubblica comunale non convenzionata con SSR"/>
+    <tag k="fax" v="+39 0432 788054"/>
+    <tag k="name" v="Comunità alloggio casa famiglia Taipana"/>
+    <tag k="operator" v="Comune di Taipana"/>
+    <tag k="phone" v="+39 0432 788054"/>
+    <tag k="social_facility" v="nursing_home"/>
+    <tag k="social_facility:for" v="senior"/>
+  </node>
+  <node id="8193807326" lat="46.2790000" lon="13.2604100" version="1" timestamp="2020-12-04T11:09:26Z" changeset="95289661" uid="361003" user="Cascafico">
+    <tag k="amenity" v="social_facility"/>
+    <tag k="capacity" v="13"/>
+    <tag k="description" v="Comunità alloggio privata sociale non convenzionata con SSR"/>
+    <tag k="email" v="comanziani@gmail.com"/>
+    <tag k="fax" v="+39 0432 787353"/>
+    <tag k="name" v="Comunità alloggio anziani - Pradielis 11"/>
+    <tag k="phone" v="+39 0432 787055"/>
+    <tag k="social_facility:for" v="senior"/>
+  </node>
+  <node id="3818512158" lat="46.4056874" lon="13.0100300" version="3" timestamp="2016-08-09T22:04:30Z" changeset="41355777" uid="893327" user="mcheckimport">
+    <tag k="addr:city" v="Tolmezzo"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="33028"/>
+    <tag k="addr:street" v="Via Gio Batta Morgagni"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="building" v="yes"/>
+    <tag k="height" v="21 m"/>
+    <tag k="it:fvg:ctrn:code" v="4AED"/>
+    <tag k="it:fvg:ctrn:revision" v="1AM"/>
+    <tag k="name" v="Casa di riposo della Carnia"/>
+    <tag k="phone" v="+39 0433 468043"/>
+    <tag k="social_facility:for" v="senior"/>
+    <tag k="website" v="www.aspcarnia.it"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4375946789" lat="45.5869187" lon="13.8042975" version="1" timestamp="2016-08-30T18:37:37Z" changeset="41809629" uid="447242" user="Diego Cruciat">
+    <tag k="amenity" v="social_facility"/>
+    <tag k="name" v="Duemiladieci cooperativa sociale"/>
+  </node>
+  <node id="4375946790" lat="45.5870670" lon="13.8043619" version="1" timestamp="2016-08-30T18:37:37Z" changeset="41809629" uid="447242" user="Diego Cruciat">
+    <tag k="amenity" v="social_facility"/>
+    <tag k="name" v="Duemilauno agenzia sociale"/>
+  </node>
+  <node id="3689102456" lat="45.9064290" lon="13.5194585" version="1" timestamp="2015-08-10T09:52:47Z" changeset="33235168" uid="3121047" user="Claudio56GO">
+    <tag k="addr:city" v="Farra d'Isonzo"/>
+    <tag k="addr:housenumber" v="31"/>
+    <tag k="addr:postcode" v="34072"/>
+    <tag k="addr:street" v="Via Dante Alighieri"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="name" v="Casa albergo Contessa Berretta"/>
+    <tag k="social_facility" v="group_home"/>
+    <tag k="social_facility:for" v="senior"/>
+  </node>
+  <node id="3618406840" lat="45.7365586" lon="13.6926847" version="4" timestamp="2020-02-02T19:16:58Z" changeset="80444328" uid="97922" user="damjang">
+    <tag k="addr:city" v="Duino Aurisina / Devin - Nabrežina"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:place" v="Aurisina Santa Croce / Nabrežina Križ"/>
+    <tag k="addr:postcode" v="34011"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="email" v="villaverdetrieste@me.com; info@villaverdetrieste.it"/>
+    <tag k="name" v="Casa di riposo Villa Verde"/>
+    <tag k="operator" v="Villa Verde S.r.l."/>
+    <tag k="phone" v="+39 040 220813"/>
+    <tag k="phone:mobile" v="+39 348 5903143"/>
+    <tag k="ref:vatin" v="IT00960940328"/>
+    <tag k="social_facility" v="assisted_living"/>
+    <tag k="social_facility:for" v="senior"/>
+    <tag k="website" v="http://www.villaverdetrieste.it/"/>
+  </node>
+  <node id="7896218744" lat="45.9576936" lon="13.4718065" version="1" timestamp="2020-09-11T08:35:45Z" changeset="90745492" uid="2751538" user="zanettifranke">
+    <tag k="addr:city" v="Cormons"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="34071"/>
+    <tag k="addr:street" v="Via Gorizia"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="email" v="segretaria.rm@gmail.com"/>
+    <tag k="internet_access" v="ja"/>
+    <tag k="name" v="Casa di riposo Rosa Mistica"/>
+    <tag k="operator" v="Suore della Provvidenza"/>
+    <tag k="operator:type" v="religious"/>
+    <tag k="phone" v="+39 0481 60157"/>
+    <tag k="social_facility" v="nursing_home"/>
+    <tag k="social_facility:for" v="senior"/>
+    <tag k="website" v="rosamisticacormons.it"/>
+    <tag k="wheelchair" v="ja"/>
+  </node>
+  <way id="663789287" version="1" timestamp="2019-01-16T12:23:39Z" changeset="66361489" uid="281699" user="hobbie">
+    <center lat="46.0719140" lon="12.5780512"/>
+    <nd ref="6213116179"/>
+    <nd ref="6213116180"/>
+    <nd ref="6213116181"/>
+    <nd ref="6213116182"/>
+    <nd ref="6213116183"/>
+    <nd ref="6213116184"/>
+    <nd ref="6213116179"/>
+    <tag k="addr:city" v="Aviano"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:postcode" v="33081"/>
+    <tag k="addr:street" v="Via Aldo Moro"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="name" v="Casa di Soggiorno per Anziani"/>
+    <tag k="operator" v="Comune di Aviano"/>
+    <tag k="social_facility" v="group_home"/>
+    <tag k="social_facility:for" v="senior"/>
+  </way>
+  <way id="36022410" version="3" timestamp="2013-09-20T18:14:01Z" changeset="17944713" uid="650416" user="Bredy">
+    <center lat="46.2905739" lon="12.4377977"/>
+    <nd ref="421014532"/>
+    <nd ref="421014533"/>
+    <nd ref="421014534"/>
+    <nd ref="421014535"/>
+    <nd ref="421014536"/>
+    <nd ref="421014537"/>
+    <nd ref="421014538"/>
+    <nd ref="421014539"/>
+    <nd ref="421014540"/>
+    <nd ref="421014541"/>
+    <nd ref="421014542"/>
+    <nd ref="421014543"/>
+    <nd ref="421014544"/>
+    <nd ref="421014532"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="building" v="yes"/>
+    <tag k="height" v="15 m"/>
+    <tag k="it:fvg:ctrn:code" v="4AED"/>
+    <tag k="it:fvg:ctrn:revision" v="000"/>
+    <tag k="name" v="Casa Albergo per Anziani"/>
+    <tag k="operator" v="Coop Itaca"/>
+    <tag k="social_facility" v="group_home"/>
+    <tag k="social_facility:for" v="senior"/>
+  </way>
+  <way id="36278799" version="2" timestamp="2013-12-27T17:24:55Z" changeset="19665178" uid="650416" user="Bredy">
+    <center lat="45.8796035" lon="12.7069374"/>
+    <nd ref="423283269"/>
+    <nd ref="423283270"/>
+    <nd ref="423283271"/>
+    <nd ref="423283272"/>
+    <nd ref="423283273"/>
+    <nd ref="423283274"/>
+    <nd ref="423283275"/>
+    <nd ref="423283276"/>
+    <nd ref="423283277"/>
+    <nd ref="423283278"/>
+    <nd ref="423283279"/>
+    <nd ref="423283280"/>
+    <nd ref="423283281"/>
+    <nd ref="423283282"/>
+    <nd ref="423283283"/>
+    <nd ref="423283284"/>
+    <nd ref="423283285"/>
+    <nd ref="423283286"/>
+    <nd ref="423283287"/>
+    <nd ref="423283288"/>
+    <nd ref="423283289"/>
+    <nd ref="423283290"/>
+    <nd ref="423283291"/>
+    <nd ref="423283292"/>
+    <nd ref="423283293"/>
+    <nd ref="423283294"/>
+    <nd ref="423283295"/>
+    <nd ref="423283296"/>
+    <nd ref="423283297"/>
+    <nd ref="423283298"/>
+    <nd ref="423283299"/>
+    <nd ref="423283300"/>
+    <nd ref="423283301"/>
+    <nd ref="423283302"/>
+    <nd ref="423283303"/>
+    <nd ref="423283304"/>
+    <nd ref="423283305"/>
+    <nd ref="423283306"/>
+    <nd ref="423283307"/>
+    <nd ref="423283308"/>
+    <nd ref="423283309"/>
+    <nd ref="423283310"/>
+    <nd ref="423283311"/>
+    <nd ref="423283312"/>
+    <nd ref="423283313"/>
+    <nd ref="423283314"/>
+    <nd ref="423283315"/>
+    <nd ref="423283316"/>
+    <nd ref="423283317"/>
+    <nd ref="423283318"/>
+    <nd ref="423283319"/>
+    <nd ref="423283320"/>
+    <nd ref="423283321"/>
+    <nd ref="423283322"/>
+    <nd ref="423283323"/>
+    <nd ref="423283324"/>
+    <nd ref="423283325"/>
+    <nd ref="423283326"/>
+    <nd ref="423283327"/>
+    <nd ref="423283328"/>
+    <nd ref="423283329"/>
+    <nd ref="423283330"/>
+    <nd ref="423283331"/>
+    <nd ref="423283332"/>
+    <nd ref="423283333"/>
+    <nd ref="423283334"/>
+    <nd ref="423283269"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="building" v="yes"/>
+    <tag k="height" v="16 m"/>
+    <tag k="it:fvg:ctrn:code" v="4AED"/>
+    <tag k="it:fvg:ctrn:revision" v="1AN"/>
+    <tag k="name" v="Azienda Pubblica di Servizi alla Persona “Solidarietà – Monsignor Domenico Cadore”"/>
+    <tag k="social_facility" v="group_home"/>
+    <tag k="social_facility:for" v="senior"/>
+  </way>
+  <way id="225003205" version="3" timestamp="2013-07-10T17:58:44Z" changeset="16903052" uid="650416" user="Bredy">
+    <center lat="45.9087505" lon="12.8551735"/>
+    <nd ref="2338340294"/>
+    <nd ref="2338349921"/>
+    <nd ref="2338340290"/>
+    <nd ref="2338349919"/>
+    <nd ref="2338340288"/>
+    <nd ref="2338340286"/>
+    <nd ref="2338340276"/>
+    <nd ref="2338340260"/>
+    <nd ref="2338340254"/>
+    <nd ref="2338340249"/>
+    <nd ref="2338340248"/>
+    <nd ref="2338340247"/>
+    <nd ref="2338340245"/>
+    <nd ref="2338340244"/>
+    <nd ref="2338349876"/>
+    <nd ref="2338340234"/>
+    <nd ref="2338340236"/>
+    <nd ref="2338340240"/>
+    <nd ref="2338340241"/>
+    <nd ref="2338340230"/>
+    <nd ref="2338340229"/>
+    <nd ref="2338340235"/>
+    <nd ref="2338340233"/>
+    <nd ref="2338340227"/>
+    <nd ref="2338340226"/>
+    <nd ref="2338340222"/>
+    <nd ref="423265618"/>
+    <nd ref="423265616"/>
+    <nd ref="2338340223"/>
+    <nd ref="424774556"/>
+    <nd ref="424774555"/>
+    <nd ref="424774554"/>
+    <nd ref="424774553"/>
+    <nd ref="424774552"/>
+    <nd ref="424774551"/>
+    <nd ref="424774806"/>
+    <nd ref="424774805"/>
+    <nd ref="2338340216"/>
+    <nd ref="2338340215"/>
+    <nd ref="2338340217"/>
+    <nd ref="2338340218"/>
+    <nd ref="2338340219"/>
+    <nd ref="2338340220"/>
+    <nd ref="2338340221"/>
+    <nd ref="2338340224"/>
+    <nd ref="2338340225"/>
+    <nd ref="2338340228"/>
+    <nd ref="2338340231"/>
+    <nd ref="2338340232"/>
+    <nd ref="2338340237"/>
+    <nd ref="2338340238"/>
+    <nd ref="2338340239"/>
+    <nd ref="2338340242"/>
+    <nd ref="2338340243"/>
+    <nd ref="2338340246"/>
+    <nd ref="2338340251"/>
+    <nd ref="2338340253"/>
+    <nd ref="2338340256"/>
+    <nd ref="2338340265"/>
+    <nd ref="2338340263"/>
+    <nd ref="2338349917"/>
+    <nd ref="2338340266"/>
+    <nd ref="2338340268"/>
+    <nd ref="2338340272"/>
+    <nd ref="2338340274"/>
+    <nd ref="2338340280"/>
+    <nd ref="2338340294"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="name" v="Istituto La Nostra Famiglia"/>
+    <tag k="social_facility" v="group_home"/>
+    <tag k="social_facility:for" v="disabled"/>
+  </way>
+  <way id="224095612" version="6" timestamp="2014-06-28T11:34:37Z" changeset="23243576" uid="650416" user="Bredy">
+    <center lat="45.9089608" lon="12.8575397"/>
+    <nd ref="2329292386"/>
+    <nd ref="2329292388"/>
+    <nd ref="2329292387"/>
+    <nd ref="2329292385"/>
+    <nd ref="2380408816"/>
+    <nd ref="2329292384"/>
+    <nd ref="2329292367"/>
+    <nd ref="2380408815"/>
+    <nd ref="2329292364"/>
+    <nd ref="2380408813"/>
+    <nd ref="2329292360"/>
+    <nd ref="2380314478"/>
+    <nd ref="2329292361"/>
+    <nd ref="2380314485"/>
+    <nd ref="2329292362"/>
+    <nd ref="2329292363"/>
+    <nd ref="2329292365"/>
+    <nd ref="2329292371"/>
+    <nd ref="2329292369"/>
+    <nd ref="2329292373"/>
+    <nd ref="2329292375"/>
+    <nd ref="2329292377"/>
+    <nd ref="2329292381"/>
+    <nd ref="2329292386"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="name" v="Casa di Riposo dei Santi Vito Modesto e Crescenzia"/>
+    <tag k="social_facility" v="group_home"/>
+    <tag k="social_facility:for" v="senior"/>
+  </way>
+  <way id="36276945" version="4" timestamp="2013-03-26T15:01:05Z" changeset="15504223" uid="24126" user="dforsi">
+    <center lat="45.9121919" lon="12.8577007"/>
+    <nd ref="423264861"/>
+    <nd ref="423264863"/>
+    <nd ref="423264847"/>
+    <nd ref="424963227"/>
+    <nd ref="424963226"/>
+    <nd ref="424963225"/>
+    <nd ref="424963230"/>
+    <nd ref="423264874"/>
+    <nd ref="423264876"/>
+    <nd ref="423264877"/>
+    <nd ref="423264878"/>
+    <nd ref="423264879"/>
+    <nd ref="423264880"/>
+    <nd ref="423264881"/>
+    <nd ref="423264861"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="building" v="yes"/>
+    <tag k="height" v="8 m"/>
+    <tag k="it:fvg:ctrn:code" v="4AED"/>
+    <tag k="it:fvg:ctrn:revision" v="1A0"/>
+    <tag k="name" v="Centro di Salute Mentale"/>
+    <tag k="operator" v="Azienda per i Servizi Sanitari n° 6 &quot;Friuli Occidentale&quot;"/>
+    <tag k="social_facility" v="group_home"/>
+    <tag k="social_facility:for" v="mental_health"/>
+  </way>
+  <way id="241101261" version="1" timestamp="2013-10-08T11:59:10Z" changeset="18245911" uid="650416" user="Bredy">
+    <center lat="45.8624494" lon="12.9251861"/>
+    <nd ref="2487954575"/>
+    <nd ref="2487954572"/>
+    <nd ref="2487954549"/>
+    <nd ref="2487954542"/>
+    <nd ref="2487954536"/>
+    <nd ref="2487954476"/>
+    <nd ref="2487954477"/>
+    <nd ref="2487954480"/>
+    <nd ref="2487954482"/>
+    <nd ref="2487954484"/>
+    <nd ref="2487954487"/>
+    <nd ref="2487954491"/>
+    <nd ref="2487954493"/>
+    <nd ref="2487954494"/>
+    <nd ref="2487954495"/>
+    <nd ref="2487954504"/>
+    <nd ref="2487954510"/>
+    <nd ref="2487954532"/>
+    <nd ref="2487954551"/>
+    <nd ref="2487954575"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="name" v="Casa di Riposo &quot;Daniele Moro&quot;"/>
+    <tag k="operator" v="Azienda pubblica di servizi alla persona &quot;Daniele Moro&quot;"/>
+    <tag k="social_facility" v="group_home"/>
+    <tag k="social_facility:for" v="senior"/>
+  </way>
+  <way id="36216803" version="7" timestamp="2015-10-12T15:23:39Z" changeset="34592711" uid="281699" user="hobbie">
+    <center lat="45.9599138" lon="12.6546517"/>
+    <nd ref="422714890"/>
+    <nd ref="422714891"/>
+    <nd ref="422714892"/>
+    <nd ref="422714893"/>
+    <nd ref="422714894"/>
+    <nd ref="422714895"/>
+    <nd ref="422714896"/>
+    <nd ref="422714897"/>
+    <nd ref="422714898"/>
+    <nd ref="422714899"/>
+    <nd ref="422714900"/>
+    <nd ref="422714901"/>
+    <nd ref="422714902"/>
+    <nd ref="422714903"/>
+    <nd ref="422714904"/>
+    <nd ref="422714905"/>
+    <nd ref="422714906"/>
+    <nd ref="422714907"/>
+    <nd ref="422714908"/>
+    <nd ref="422714909"/>
+    <nd ref="422714890"/>
+    <tag k="addr:city" v="Pordenone"/>
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:postcode" v="33170"/>
+    <tag k="addr:street" v="Via Luigi De Paoli"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="building" v="yes"/>
+    <tag k="height" v="17 m"/>
+    <tag k="it:fvg:ctrn:code" v="4AED"/>
+    <tag k="it:fvg:ctrn:revision" v="1AM"/>
+    <tag k="name" v="Consultorio Familiare"/>
+    <tag k="operator" v="Azienda per l'Assistenza Sanitaria n. 5 &quot;Friuli Occidentale&quot;"/>
+    <tag k="social_facility" v="outreach"/>
+  </way>
+  <way id="759436472" version="1" timestamp="2019-12-29T20:50:47Z" changeset="78989403" uid="281699" user="hobbie">
+    <center lat="45.9557657" lon="12.6620672"/>
+    <nd ref="1673944594"/>
+    <nd ref="1673944599"/>
+    <nd ref="7093789090"/>
+    <nd ref="7093789095"/>
+    <nd ref="7093789091"/>
+    <nd ref="7093789092"/>
+    <nd ref="7093789093"/>
+    <nd ref="7093789096"/>
+    <nd ref="7093789097"/>
+    <nd ref="7093789094"/>
+    <nd ref="422712426"/>
+    <nd ref="422712427"/>
+    <nd ref="422712414"/>
+    <nd ref="1673944594"/>
+    <tag k="addr:city" v="Pordenone"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="33170"/>
+    <tag k="addr:street" v="Piazza della Motta"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Casa per Anziani Umberto I"/>
+    <tag k="operator" v="ASP Umberto I"/>
+    <tag k="operator:type" v="public"/>
+    <tag k="social_facility" v="group_home"/>
+    <tag k="social_facility:for" v="senior"/>
+  </way>
+  <way id="666488605" version="2" timestamp="2019-10-22T05:39:07Z" changeset="76028109" uid="110834" user="andreagott">
+    <center lat="45.9621381" lon="12.6791095"/>
+    <nd ref="6240019223"/>
+    <nd ref="6240019232"/>
+    <nd ref="6240019224"/>
+    <nd ref="6904624013"/>
+    <nd ref="6240019225"/>
+    <nd ref="6240019226"/>
+    <nd ref="6240019227"/>
+    <nd ref="6240019223"/>
+    <tag k="addr:city" v="Pordenone"/>
+    <tag k="addr:housenumber" v="88"/>
+    <tag k="addr:postcode" v="33170"/>
+    <tag k="addr:street" v="Via Revedole"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="name" v="Casa Serena"/>
+    <tag k="operator" v="Azienda Pubblica di Servizi alla Persona &quot;Umberto I&quot;"/>
+    <tag k="social_facility" v="group_home"/>
+    <tag k="social_facility:for" v="senior"/>
+  </way>
+  <way id="459796732" version="2" timestamp="2016-12-15T09:50:39Z" changeset="44418803" uid="281699" user="hobbie">
+    <center lat="45.9865632" lon="12.6425367"/>
+    <nd ref="4555380177"/>
+    <nd ref="4555385559"/>
+    <nd ref="4555380179"/>
+    <nd ref="1262631210"/>
+    <nd ref="1262631235"/>
+    <nd ref="1262631228"/>
+    <nd ref="4555380177"/>
+    <tag k="addr:city" v="Pordenone"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="33170"/>
+    <tag k="addr:street" v="Viale de la Comina"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="name" v="ex Caserma Monti"/>
+    <tag k="operator" v="Croce Rossa Italiana"/>
+    <tag k="social_facility:for" v="migrant"/>
+  </way>
+  <way id="628510027" version="1" timestamp="2018-09-27T08:20:57Z" changeset="62969234" uid="281699" user="hobbie">
+    <center lat="46.0055589" lon="12.6154600"/>
+    <nd ref="5933606905"/>
+    <nd ref="5933606914"/>
+    <nd ref="5933606906"/>
+    <nd ref="5933606907"/>
+    <nd ref="5933606908"/>
+    <nd ref="5933606909"/>
+    <nd ref="5933606910"/>
+    <nd ref="5933606911"/>
+    <nd ref="5933606912"/>
+    <nd ref="5933606913"/>
+    <nd ref="5933606905"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="name" v="RSA"/>
+    <tag k="social_facility" v="group_home"/>
+    <tag k="social_facility:for" v="senior"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="668137192" version="1" timestamp="2019-02-03T21:22:12Z" changeset="66886729" uid="281699" user="hobbie">
+    <center lat="45.9904085" lon="12.7031319"/>
+    <nd ref="6256637834"/>
+    <nd ref="6256637835"/>
+    <nd ref="6256637836"/>
+    <nd ref="6256637837"/>
+    <nd ref="6256637838"/>
+    <nd ref="6256637839"/>
+    <nd ref="6256637840"/>
+    <nd ref="6256637841"/>
+    <nd ref="6256637842"/>
+    <nd ref="6256637843"/>
+    <nd ref="6256637844"/>
+    <nd ref="6256637845"/>
+    <nd ref="6256637846"/>
+    <nd ref="6256637834"/>
+    <tag k="addr:city" v="Cordenons"/>
+    <tag k="addr:housenumber" v="68"/>
+    <tag k="addr:postcode" v="33084"/>
+    <tag k="addr:street" v="Via Cervel"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="name" v="Casa di Riposo &quot;Arcobaleno&quot;"/>
+    <tag k="operator" v="Azienda di Servizi alla Persona Cordenonese &quot;Arcobaleno&quot;"/>
+    <tag k="social_facility" v="group_home"/>
+    <tag k="social_facility:for" v="senior"/>
+  </way>
+  <way id="666480314" version="1" timestamp="2019-01-27T16:28:25Z" changeset="66681219" uid="281699" user="hobbie">
+    <center lat="45.9748842" lon="12.8019086"/>
+    <nd ref="6239931993"/>
+    <nd ref="6239931994"/>
+    <nd ref="6239931995"/>
+    <nd ref="6239931996"/>
+    <nd ref="6239931993"/>
+    <tag k="addr:city" v="Zoppola"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="33080"/>
+    <tag k="addr:street" v="Via Vincenzo Favetti"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="name" v="Residenza per Anziani &quot;Micoli Toscano&quot;"/>
+    <tag k="operator" v="Fondazione Micoli Toscano"/>
+    <tag k="social_facility" v="group_home"/>
+    <tag k="social_facility:for" v="senior"/>
+  </way>
+  <way id="663771206" version="1" timestamp="2019-01-16T10:48:46Z" changeset="66358538" uid="281699" user="hobbie">
+    <center lat="45.9944931" lon="12.8690118"/>
+    <nd ref="6212890093"/>
+    <nd ref="6212890094"/>
+    <nd ref="6212890098"/>
+    <nd ref="6212890097"/>
+    <nd ref="6212890095"/>
+    <nd ref="6212890096"/>
+    <nd ref="6212890093"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="name" v="Casa di Riposo &quot;Colledani Bulian&quot;"/>
+    <tag k="operator" v="Fondazione Opera &quot;Colledani Bulian&quot;"/>
+    <tag k="social_facility" v="group_home"/>
+    <tag k="social_facility:for" v="senior"/>
+  </way>
+  <way id="663765567" version="1" timestamp="2019-01-16T10:03:21Z" changeset="66357250" uid="281699" user="hobbie">
+    <center lat="45.9621669" lon="12.9942149"/>
+    <nd ref="6212830993"/>
+    <nd ref="6212830994"/>
+    <nd ref="6212830995"/>
+    <nd ref="6212830996"/>
+    <nd ref="6212830997"/>
+    <nd ref="6212830998"/>
+    <nd ref="6212830999"/>
+    <nd ref="6212831000"/>
+    <nd ref="6212831001"/>
+    <nd ref="6212831002"/>
+    <nd ref="6212831003"/>
+    <nd ref="6212830993"/>
+    <tag k="addr:city" v="Codroipo"/>
+    <tag k="addr:housenumber" v="80"/>
+    <tag k="addr:postcode" v="33033"/>
+    <tag k="addr:street" v="Viale Francesco Duodo"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="name" v="Casa di Riposo &quot;Daniele Moro&quot;"/>
+    <tag k="operator" v="Azienda di Servizi Alla Persona &quot;Daniele Moro&quot;"/>
+    <tag k="social_facility" v="group_home"/>
+    <tag k="social_facility:for" v="senior"/>
+  </way>
+  <way id="663765568" version="1" timestamp="2019-01-16T10:03:21Z" changeset="66357250" uid="281699" user="hobbie">
+    <center lat="45.9632529" lon="12.9970839"/>
+    <nd ref="6212831004"/>
+    <nd ref="6212831005"/>
+    <nd ref="6212831006"/>
+    <nd ref="6212831007"/>
+    <nd ref="6212831004"/>
+    <tag k="addr:city" v="Codroipo"/>
+    <tag k="addr:housenumber" v="86"/>
+    <tag k="addr:postcode" v="33033"/>
+    <tag k="addr:street" v="Viale Francesco Duodo"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="name" v="La Pannocchia"/>
+    <tag k="operator" v="Associazione &quot;La Pannocchia ONLUS&quot;"/>
+    <tag k="social_facility" v="group_home"/>
+    <tag k="social_facility:for" v="disabled"/>
+  </way>
+  <way id="857451336" version="1" timestamp="2020-10-10T07:46:22Z" changeset="92266142" uid="281699" user="hobbie">
+    <center lat="46.1131406" lon="12.9006557"/>
+    <nd ref="7994305478"/>
+    <nd ref="7994305479"/>
+    <nd ref="7994305480"/>
+    <nd ref="7994305481"/>
+    <nd ref="7994305482"/>
+    <nd ref="424875692"/>
+    <nd ref="424875693"/>
+    <nd ref="424875698"/>
+    <nd ref="424875699"/>
+    <nd ref="424875700"/>
+    <nd ref="7994305483"/>
+    <nd ref="7994305484"/>
+    <nd ref="7994305478"/>
+    <tag k="addr:city" v="Spilimbergo"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:postcode" v="33097"/>
+    <tag k="addr:street" v="Via Francesco Baracca"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="name" v="Casa di Riposo di Spilimbergo"/>
+    <tag k="operator" v="ASP Spilimbergo"/>
+    <tag k="operator:type" v="public"/>
+    <tag k="social_facility" v="group_home"/>
+    <tag k="social_facility:for" v="senior"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="687369725" version="2" timestamp="2019-07-03T08:27:05Z" changeset="71849134" uid="281699" user="hobbie">
+    <center lat="45.8754176" lon="13.0447936"/>
+    <nd ref="6443121910"/>
+    <nd ref="6443121911"/>
+    <nd ref="6443121912"/>
+    <nd ref="6443121913"/>
+    <nd ref="6443121914"/>
+    <nd ref="6443121915"/>
+    <nd ref="6443121917"/>
+    <nd ref="6443121916"/>
+    <nd ref="6443121922"/>
+    <nd ref="6443121921"/>
+    <nd ref="6443121918"/>
+    <nd ref="6443121919"/>
+    <nd ref="6443121920"/>
+    <nd ref="6443121910"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="name" v="Zaffiro Rivignano"/>
+    <tag k="operator" v="Zaffiro Rivignano Srl"/>
+    <tag k="operator:type" v="private_for_profit"/>
+    <tag k="social_facility" v="group_home"/>
+    <tag k="social_facility:for" v="senior"/>
+  </way>
+  <way id="662488774" version="2" timestamp="2019-01-13T00:36:47Z" changeset="66263727" uid="281699" user="hobbie">
+    <center lat="45.9430546" lon="13.1790095"/>
+    <nd ref="6202091885"/>
+    <nd ref="6202091886"/>
+    <nd ref="6202091887"/>
+    <nd ref="6202091888"/>
+    <nd ref="6202091889"/>
+    <nd ref="6202091890"/>
+    <nd ref="6202091891"/>
+    <nd ref="6202091892"/>
+    <nd ref="6202091893"/>
+    <nd ref="6202091885"/>
+    <tag k="addr:city" v="Mortegliano"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="33050"/>
+    <tag k="addr:street" v="Strada Vicinale Gonars"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="name" v="Casa di Riposo &quot;Italia Rovere Bianchi&quot;"/>
+    <tag k="operator" v="Comune di Mortegliano"/>
+    <tag k="social_facility" v="group_home"/>
+    <tag k="social_facility:for" v="senior"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="877848552" version="1" timestamp="2020-11-26T11:15:06Z" changeset="94835040" uid="361003" user="Cascafico">
+    <center lat="45.8368845" lon="13.3314668"/>
+    <nd ref="8167595760"/>
+    <nd ref="8167595761"/>
+    <nd ref="8167595762"/>
+    <nd ref="8167595764"/>
+    <nd ref="8167595763"/>
+    <nd ref="8167595760"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="name" v="La Villa Rosa"/>
+    <tag k="social_facility:for" v="senior"/>
+  </way>
+  <way id="36373282" version="5" timestamp="2017-11-15T16:28:33Z" changeset="53808566" uid="4298478" user="Jacopo Bordignon">
+    <center lat="45.8689102" lon="13.3600579"/>
+    <nd ref="424211116"/>
+    <nd ref="424211117"/>
+    <nd ref="424211118"/>
+    <nd ref="424211119"/>
+    <nd ref="424211120"/>
+    <nd ref="424211121"/>
+    <nd ref="424211122"/>
+    <nd ref="424211123"/>
+    <nd ref="424211124"/>
+    <nd ref="424211125"/>
+    <nd ref="424211126"/>
+    <nd ref="424211127"/>
+    <nd ref="424211128"/>
+    <nd ref="424211129"/>
+    <nd ref="424211130"/>
+    <nd ref="424211131"/>
+    <nd ref="424211132"/>
+    <nd ref="424211133"/>
+    <nd ref="424211134"/>
+    <nd ref="424211135"/>
+    <nd ref="424211136"/>
+    <nd ref="424211137"/>
+    <nd ref="424211138"/>
+    <nd ref="424211139"/>
+    <nd ref="424211140"/>
+    <nd ref="424211141"/>
+    <nd ref="424211142"/>
+    <nd ref="424211143"/>
+    <nd ref="424211144"/>
+    <nd ref="424211145"/>
+    <nd ref="424211146"/>
+    <nd ref="424211147"/>
+    <nd ref="424211148"/>
+    <nd ref="424211116"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="building" v="yes"/>
+    <tag k="height" v="10 m"/>
+    <tag k="it:fvg:ctrn:code" v="4AED"/>
+    <tag k="it:fvg:ctrn:revision" v="1A0"/>
+    <tag k="name" v="Casa di Riposo Comunale &quot;Casa Mafalda&quot;"/>
+    <tag k="social_facility" v="group_home"/>
+    <tag k="social_facility:for" v="senior"/>
+  </way>
+  <way id="398860903" version="3" timestamp="2017-11-15T16:28:33Z" changeset="53808566" uid="4298478" user="Jacopo Bordignon">
+    <center lat="45.8724976" lon="13.3665669"/>
+    <nd ref="4015959921"/>
+    <nd ref="4016006852"/>
+    <nd ref="4016006851"/>
+    <nd ref="4015959918"/>
+    <nd ref="4015959919"/>
+    <nd ref="4015959920"/>
+    <nd ref="4015959921"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Casa di Riposo &quot;Sereni Orizzonti&quot;"/>
+    <tag k="social_facility" v="group_home"/>
+    <tag k="social_facility:for" v="senior"/>
+  </way>
+  <way id="759392927" version="1" timestamp="2019-12-29T15:35:50Z" changeset="78981976" uid="281699" user="hobbie">
+    <center lat="46.1527259" lon="13.0075902"/>
+    <nd ref="7093346153"/>
+    <nd ref="7093346154"/>
+    <nd ref="7093346155"/>
+    <nd ref="7093346167"/>
+    <nd ref="7093346156"/>
+    <nd ref="7093346157"/>
+    <nd ref="7093346158"/>
+    <nd ref="7093346159"/>
+    <nd ref="7093346160"/>
+    <nd ref="7093346161"/>
+    <nd ref="7093346162"/>
+    <nd ref="7093346163"/>
+    <nd ref="7093346164"/>
+    <nd ref="7093346165"/>
+    <nd ref="7093346166"/>
+    <nd ref="7093346153"/>
+    <tag k="addr:city" v="San Daniele del Friuli"/>
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:postcode" v="33038"/>
+    <tag k="addr:street" v="Via Dalmazia"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="name" v="Residenza per persone non autosufficienti di S. Daniele del Friuli"/>
+    <tag k="operator" v="ASUIUD"/>
+    <tag k="operator:type" v="public"/>
+    <tag k="social_facility" v="group_home"/>
+    <tag k="social_facility:for" v="senior"/>
+  </way>
+  <way id="36100949" version="2" timestamp="2017-01-12T23:57:52Z" changeset="45120529" uid="1227619" user="Marco_T">
+    <center lat="46.1133747" lon="13.0987216"/>
+    <nd ref="421659979"/>
+    <nd ref="421659980"/>
+    <nd ref="421659981"/>
+    <nd ref="421659982"/>
+    <nd ref="421659983"/>
+    <nd ref="421659984"/>
+    <nd ref="421659985"/>
+    <nd ref="421659986"/>
+    <nd ref="421659987"/>
+    <nd ref="421659988"/>
+    <nd ref="421659989"/>
+    <nd ref="421659990"/>
+    <nd ref="421659979"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="building" v="yes"/>
+    <tag k="height" v="8 m"/>
+    <tag k="it:fvg:ctrn:code" v="4AED"/>
+    <tag k="it:fvg:ctrn:revision" v="1A0"/>
+    <tag k="name" v="Residenza per anziani Zaffiro"/>
+  </way>
+  <way id="378167018" version="2" timestamp="2017-01-12T23:57:53Z" changeset="45120529" uid="1227619" user="Marco_T">
+    <center lat="46.0923315" lon="13.1841623"/>
+    <nd ref="3815849403"/>
+    <nd ref="3815849404"/>
+    <nd ref="3815849405"/>
+    <nd ref="3815849406"/>
+    <nd ref="3815849407"/>
+    <nd ref="3815849408"/>
+    <nd ref="3815849409"/>
+    <nd ref="3815849410"/>
+    <nd ref="3815849411"/>
+    <nd ref="3815849403"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="name" v="Residenza per anziani Zaffiro"/>
+  </way>
+  <way id="98818467" version="3" timestamp="2019-12-29T16:15:13Z" changeset="78983040" uid="281699" user="hobbie">
+    <center lat="46.0684099" lon="13.2398429"/>
+    <nd ref="421871314"/>
+    <nd ref="426282848"/>
+    <nd ref="426282870"/>
+    <nd ref="426282869"/>
+    <nd ref="426282868"/>
+    <nd ref="426282867"/>
+    <nd ref="421871319"/>
+    <nd ref="426282871"/>
+    <nd ref="426282876"/>
+    <nd ref="426282875"/>
+    <nd ref="426282874"/>
+    <nd ref="426282873"/>
+    <nd ref="421942041"/>
+    <nd ref="421942040"/>
+    <nd ref="421942038"/>
+    <nd ref="421942036"/>
+    <nd ref="421934855"/>
+    <nd ref="421934857"/>
+    <nd ref="421942032"/>
+    <nd ref="421942026"/>
+    <nd ref="1261983319"/>
+    <nd ref="421938588"/>
+    <nd ref="421938621"/>
+    <nd ref="421938624"/>
+    <nd ref="421938623"/>
+    <nd ref="421938584"/>
+    <nd ref="1143023603"/>
+    <nd ref="421938595"/>
+    <nd ref="421938594"/>
+    <nd ref="1143023380"/>
+    <nd ref="1143023513"/>
+    <nd ref="1143023637"/>
+    <nd ref="421938344"/>
+    <nd ref="421938346"/>
+    <nd ref="745971249"/>
+    <nd ref="636787846"/>
+    <nd ref="636787847"/>
+    <nd ref="1143023392"/>
+    <nd ref="636787848"/>
+    <nd ref="421935835"/>
+    <nd ref="421935834"/>
+    <nd ref="421935833"/>
+    <nd ref="421871314"/>
+    <tag k="addr:city" v="Udine"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="33100"/>
+    <tag k="addr:street" v="Via Sant'Agostino"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="name" v="La Quiete"/>
+    <tag k="social_facility" v="group_home"/>
+    <tag k="social_facility:for" v="senior"/>
+  </way>
+  <way id="36118368" version="4" timestamp="2019-10-02T13:51:50Z" changeset="75189460" uid="3821761" user="Gabriele Dri">
+    <center lat="46.0776637" lon="13.2304869"/>
+    <nd ref="421819907"/>
+    <nd ref="421819910"/>
+    <nd ref="421819912"/>
+    <nd ref="421819914"/>
+    <nd ref="421819916"/>
+    <nd ref="421819918"/>
+    <nd ref="421819922"/>
+    <nd ref="421819925"/>
+    <nd ref="421819927"/>
+    <nd ref="421819929"/>
+    <nd ref="421819931"/>
+    <nd ref="421819932"/>
+    <nd ref="421819934"/>
+    <nd ref="421819939"/>
+    <nd ref="421819940"/>
+    <nd ref="421819941"/>
+    <nd ref="421819942"/>
+    <nd ref="421819943"/>
+    <nd ref="421819944"/>
+    <nd ref="421819945"/>
+    <nd ref="421819947"/>
+    <nd ref="421819949"/>
+    <nd ref="421819907"/>
+    <tag k="alt_name" v="Edificio 21"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="building" v="yes"/>
+    <tag k="height" v="4 m"/>
+    <tag k="it:fvg:ctrn:code" v="4AED"/>
+    <tag k="it:fvg:ctrn:revision" v="1AN"/>
+    <tag k="name" v="Casa Mia"/>
+    <tag k="operator" v="Associazione &quot;Casa Mia&quot; Onlus"/>
+    <tag k="roof:colour" v="red"/>
+    <tag k="social_facility" v="assisted_living"/>
+  </way>
+  <way id="36162080" version="3" timestamp="2017-01-12T23:57:52Z" changeset="45120529" uid="1227619" user="Marco_T">
+    <center lat="46.1311998" lon="13.3564701"/>
+    <nd ref="422204604"/>
+    <nd ref="422204605"/>
+    <nd ref="422204606"/>
+    <nd ref="422204607"/>
+    <nd ref="422204608"/>
+    <nd ref="422204609"/>
+    <nd ref="422204610"/>
+    <nd ref="422204611"/>
+    <nd ref="422204612"/>
+    <nd ref="422204613"/>
+    <nd ref="422204614"/>
+    <nd ref="422204615"/>
+    <nd ref="422204616"/>
+    <nd ref="422204617"/>
+    <nd ref="422204618"/>
+    <nd ref="422204619"/>
+    <nd ref="422204620"/>
+    <nd ref="422204621"/>
+    <nd ref="422204622"/>
+    <nd ref="422204623"/>
+    <nd ref="422204624"/>
+    <nd ref="422204625"/>
+    <nd ref="422204626"/>
+    <nd ref="422204627"/>
+    <nd ref="422204628"/>
+    <nd ref="422204629"/>
+    <nd ref="422204630"/>
+    <nd ref="422204631"/>
+    <nd ref="422204632"/>
+    <nd ref="422204633"/>
+    <nd ref="422204634"/>
+    <nd ref="422204604"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="building" v="yes"/>
+    <tag k="height" v="6 m"/>
+    <tag k="it:fvg:ctrn:code" v="4AED"/>
+    <tag k="it:fvg:ctrn:revision" v="1A0"/>
+    <tag k="name" v="Residenza per anziani"/>
+  </way>
+  <way id="857452380" version="1" timestamp="2020-10-10T07:52:22Z" changeset="92266304" uid="281699" user="hobbie">
+    <center lat="46.1889604" lon="12.7636747"/>
+    <nd ref="7994313777"/>
+    <nd ref="7994313778"/>
+    <nd ref="7994313779"/>
+    <nd ref="7994313780"/>
+    <nd ref="7994313781"/>
+    <nd ref="421477594"/>
+    <nd ref="421477642"/>
+    <nd ref="7994313777"/>
+    <tag k="addr:city" v="Cavasso Nuovo"/>
+    <tag k="addr:housenumber" v="91"/>
+    <tag k="addr:postcode" v="33090"/>
+    <tag k="addr:street" v="Via Vittorio Veneto"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="name" v="Casa di Riposo di Cavasso Nuovo - Fanna"/>
+    <tag k="operator" v="ASP Pedemontana"/>
+    <tag k="operator:type" v="public"/>
+    <tag k="social_facility" v="group_home"/>
+    <tag k="social_facility:for" v="senior"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="539870651" version="2" timestamp="2020-10-10T07:56:47Z" changeset="92266440" uid="281699" user="hobbie">
+    <center lat="46.1724040" lon="12.8367387"/>
+    <nd ref="5223429036"/>
+    <nd ref="5223429034"/>
+    <nd ref="5223429035"/>
+    <nd ref="5223429037"/>
+    <nd ref="5223429036"/>
+    <tag k="addr:city" v="Sequals"/>
+    <tag k="addr:housenumber" v="82"/>
+    <tag k="addr:postcode" v="33090"/>
+    <tag k="addr:street" v="Via Gian Domenico Facchina"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="name" v="Casa dell’emigrante C. e A. Carnera"/>
+    <tag k="operator" v="ASP Pedemontana"/>
+    <tag k="operator:type" v="public"/>
+    <tag k="social_facility" v="nursing_home"/>
+    <tag k="social_facility:for" v="senior"/>
+  </way>
+  <way id="791117515" version="2" timestamp="2020-04-13T09:05:55Z" changeset="83463392" uid="447242" user="Diego Cruciat">
+    <center lat="46.1694443" lon="12.9228027"/>
+    <nd ref="7395759766"/>
+    <nd ref="7395759767"/>
+    <nd ref="7395759768"/>
+    <nd ref="7395759769"/>
+    <nd ref="7395759766"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="name" v="Fondazione casa per anziani Valeriano"/>
+    <tag k="social_facility" v="group_home"/>
+    <tag k="social_facility:for" v="senior"/>
+  </way>
+  <way id="36088092" version="6" timestamp="2020-04-11T16:28:09Z" changeset="83404514" uid="447242" user="Diego Cruciat">
+    <center lat="46.1805824" lon="12.9442453"/>
+    <nd ref="421541744"/>
+    <nd ref="421541745"/>
+    <nd ref="421541760"/>
+    <nd ref="421541755"/>
+    <nd ref="421541746"/>
+    <nd ref="421541747"/>
+    <nd ref="421541749"/>
+    <nd ref="421541748"/>
+    <nd ref="421541744"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="building" v="yes"/>
+    <tag k="height" v="8 m"/>
+    <tag k="it:fvg:ctrn:code" v="4AED"/>
+    <tag k="it:fvg:ctrn:revision" v="000"/>
+    <tag k="name" v="Casa di riposo La Panoramica"/>
+    <tag k="social_facility" v="group_home"/>
+    <tag k="social_facility:for" v="senior"/>
+  </way>
+  <way id="36017067" version="3" timestamp="2016-12-08T11:32:30Z" changeset="44256110" uid="188429" user="gpstracks">
+    <center lat="46.4063752" lon="13.0009113"/>
+    <nd ref="420967481"/>
+    <nd ref="420967482"/>
+    <nd ref="420967483"/>
+    <nd ref="420967484"/>
+    <nd ref="420967485"/>
+    <nd ref="420967486"/>
+    <nd ref="420967487"/>
+    <nd ref="420967488"/>
+    <nd ref="420967489"/>
+    <nd ref="420967490"/>
+    <nd ref="420967491"/>
+    <nd ref="420967492"/>
+    <nd ref="420967493"/>
+    <nd ref="420967494"/>
+    <nd ref="420967495"/>
+    <nd ref="420967496"/>
+    <nd ref="420967497"/>
+    <nd ref="420967498"/>
+    <nd ref="420967499"/>
+    <nd ref="420967500"/>
+    <nd ref="420967501"/>
+    <nd ref="420967502"/>
+    <nd ref="420967503"/>
+    <nd ref="420967504"/>
+    <nd ref="420967505"/>
+    <nd ref="420967506"/>
+    <nd ref="420967507"/>
+    <nd ref="420967508"/>
+    <nd ref="420967509"/>
+    <nd ref="420967510"/>
+    <nd ref="420967511"/>
+    <nd ref="420967512"/>
+    <nd ref="420967513"/>
+    <nd ref="420967514"/>
+    <nd ref="420967515"/>
+    <nd ref="420967516"/>
+    <nd ref="420967517"/>
+    <nd ref="420967518"/>
+    <nd ref="420967519"/>
+    <nd ref="420967520"/>
+    <nd ref="420967521"/>
+    <nd ref="420967522"/>
+    <nd ref="420967523"/>
+    <nd ref="420967524"/>
+    <nd ref="420967525"/>
+    <nd ref="420967526"/>
+    <nd ref="420967527"/>
+    <nd ref="420967528"/>
+    <nd ref="420967529"/>
+    <nd ref="420967530"/>
+    <nd ref="420967531"/>
+    <nd ref="420967532"/>
+    <nd ref="420967533"/>
+    <nd ref="420967534"/>
+    <nd ref="420967535"/>
+    <nd ref="420967536"/>
+    <nd ref="420967537"/>
+    <nd ref="420967538"/>
+    <nd ref="420967539"/>
+    <nd ref="420967540"/>
+    <nd ref="420967541"/>
+    <nd ref="420967542"/>
+    <nd ref="420967543"/>
+    <nd ref="420967544"/>
+    <nd ref="420967545"/>
+    <nd ref="420967546"/>
+    <nd ref="420967547"/>
+    <nd ref="420967548"/>
+    <nd ref="420967549"/>
+    <nd ref="420967550"/>
+    <nd ref="420967551"/>
+    <nd ref="420967552"/>
+    <nd ref="420967553"/>
+    <nd ref="420967554"/>
+    <nd ref="420967555"/>
+    <nd ref="420967556"/>
+    <nd ref="420967557"/>
+    <nd ref="420967481"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="building" v="yes"/>
+    <tag k="height" v="14 m"/>
+    <tag k="it:fvg:ctrn:code" v="4AED"/>
+    <tag k="it:fvg:ctrn:revision" v="1AN"/>
+    <tag k="name" v="Comunità Piergiorgio"/>
+    <tag k="social_facility" v="day_care"/>
+    <tag k="social_facility:for" v="disabled"/>
+    <tag k="website" v="http://www.piergiorgio.org/"/>
+  </way>
+  <way id="759387600" version="2" timestamp="2019-12-29T16:00:38Z" changeset="78982666" uid="281699" user="hobbie">
+    <center lat="46.1826040" lon="13.0694652"/>
+    <nd ref="7093331723"/>
+    <nd ref="7093331724"/>
+    <nd ref="7093331725"/>
+    <nd ref="7093331726"/>
+    <nd ref="7093331727"/>
+    <nd ref="7093331728"/>
+    <nd ref="7093331723"/>
+    <tag k="addr:city" v="Majano"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="33030"/>
+    <tag k="addr:street" v="Viale Franco Bertagnolli"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="name" v="Centro Residenziale per Anziani &quot;Marianna Stango Rodino&quot;"/>
+    <tag k="operator" v="Comune di Majano"/>
+    <tag k="operator:type" v="public"/>
+    <tag k="social_facility" v="group_home"/>
+    <tag k="social_facility:for" v="senior"/>
+  </way>
+  <way id="759395813" version="1" timestamp="2019-12-29T15:57:18Z" changeset="78982578" uid="281699" user="hobbie">
+    <center lat="46.2555931" lon="13.0850164"/>
+    <nd ref="7093354394"/>
+    <nd ref="7093354395"/>
+    <nd ref="7093354396"/>
+    <nd ref="7093354397"/>
+    <nd ref="7093354398"/>
+    <nd ref="7093354399"/>
+    <nd ref="7093354394"/>
+    <tag k="addr:city" v="Osoppo"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="33010"/>
+    <tag k="addr:street" v="Via Brigata Rosselli"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="name" v="Centro sociale per anziani Osoppo"/>
+    <tag k="social_facility" v="group_home"/>
+    <tag k="social_facility:for" v="senior"/>
+  </way>
+  <way id="36183029" version="3" timestamp="2016-07-11T11:22:01Z" changeset="40648016" uid="2923355" user="stedux">
+    <center lat="46.1614783" lon="13.2047147"/>
+    <nd ref="422419164"/>
+    <nd ref="422419165"/>
+    <nd ref="422419166"/>
+    <nd ref="422419167"/>
+    <nd ref="422419168"/>
+    <nd ref="422419169"/>
+    <nd ref="422419170"/>
+    <nd ref="422419171"/>
+    <nd ref="422419172"/>
+    <nd ref="422419173"/>
+    <nd ref="422419174"/>
+    <nd ref="422419175"/>
+    <nd ref="422419176"/>
+    <nd ref="422419177"/>
+    <nd ref="422419178"/>
+    <nd ref="422419179"/>
+    <nd ref="422419180"/>
+    <nd ref="422419181"/>
+    <nd ref="422419182"/>
+    <nd ref="422419183"/>
+    <nd ref="422419184"/>
+    <nd ref="422419185"/>
+    <nd ref="422419186"/>
+    <nd ref="422419164"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="building" v="yes"/>
+    <tag k="height" v="13 m"/>
+    <tag k="it:fvg:ctrn:code" v="4AED"/>
+    <tag k="it:fvg:ctrn:revision" v="1A0"/>
+    <tag k="name" v="Casa di Riposo &quot;Antonio e Maddalena De Pilosio&quot;"/>
+  </way>
+  <way id="134135245" version="3" timestamp="2020-11-26T12:30:49Z" changeset="94840099" uid="361003" user="Cascafico">
+    <center lat="46.2068791" lon="13.1190667"/>
+    <nd ref="1475143114"/>
+    <nd ref="1475143131"/>
+    <nd ref="1475143112"/>
+    <nd ref="1475143208"/>
+    <nd ref="1475143114"/>
+    <tag k="addr:city" v="Buja"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="2/23"/>
+    <tag k="addr:postcode" v="33030"/>
+    <tag k="addr:street" v="Via Ursinins Piccolo"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="building" v="yes"/>
+    <tag k="capacity" v="27"/>
+    <tag k="description" v="Residenza per anziani non autosufficienti"/>
+    <tag k="fax" v="+39 0432 964422"/>
+    <tag k="fixme" v="RAFVG opendata dichiara solo 64 posti letto per autosufficienti"/>
+    <tag k="name" v="Centro Anziani Buja"/>
+    <tag k="operator" v="Comune di Buja"/>
+    <tag k="phone" v="+39 0432 964421"/>
+    <tag k="social_facility" v="nursing_home"/>
+    <tag k="social_facility:for" v="disabled"/>
+  </way>
+  <way id="36050109" version="2" timestamp="2017-01-12T23:57:51Z" changeset="45120529" uid="1227619" user="Marco_T">
+    <center lat="46.2284327" lon="13.1775072"/>
+    <nd ref="421228314"/>
+    <nd ref="421228315"/>
+    <nd ref="421228316"/>
+    <nd ref="421228317"/>
+    <nd ref="421228318"/>
+    <nd ref="421228319"/>
+    <nd ref="421228320"/>
+    <nd ref="421228321"/>
+    <nd ref="421228322"/>
+    <nd ref="421228323"/>
+    <nd ref="421228325"/>
+    <nd ref="421228326"/>
+    <nd ref="421228327"/>
+    <nd ref="421228328"/>
+    <nd ref="421228329"/>
+    <nd ref="421228330"/>
+    <nd ref="421228331"/>
+    <nd ref="421228332"/>
+    <nd ref="421228333"/>
+    <nd ref="421228334"/>
+    <nd ref="421228335"/>
+    <nd ref="421228336"/>
+    <nd ref="421228337"/>
+    <nd ref="421228338"/>
+    <nd ref="421228339"/>
+    <nd ref="421228340"/>
+    <nd ref="421228342"/>
+    <nd ref="421228343"/>
+    <nd ref="421228344"/>
+    <nd ref="421228345"/>
+    <nd ref="421228346"/>
+    <nd ref="421228347"/>
+    <nd ref="421228349"/>
+    <nd ref="421228350"/>
+    <nd ref="421228351"/>
+    <nd ref="421228352"/>
+    <nd ref="421228353"/>
+    <nd ref="421228354"/>
+    <nd ref="421228355"/>
+    <nd ref="421228356"/>
+    <nd ref="421228357"/>
+    <nd ref="421228358"/>
+    <nd ref="421228359"/>
+    <nd ref="421228314"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="building" v="yes"/>
+    <tag k="height" v="8 m"/>
+    <tag k="it:fvg:ctrn:code" v="4AED"/>
+    <tag k="it:fvg:ctrn:revision" v="1AM"/>
+    <tag k="name" v="Residenza per anziani Zaffiro"/>
+  </way>
+  <way id="36037468" version="3" timestamp="2012-09-29T09:13:14Z" changeset="13293918" uid="188429" user="gpstracks">
+    <center lat="46.2844195" lon="13.1346439"/>
+    <nd ref="421126438"/>
+    <nd ref="421126439"/>
+    <nd ref="421126440"/>
+    <nd ref="421126441"/>
+    <nd ref="421126443"/>
+    <nd ref="421126445"/>
+    <nd ref="421126450"/>
+    <nd ref="421126452"/>
+    <nd ref="421126453"/>
+    <nd ref="421126454"/>
+    <nd ref="421126455"/>
+    <nd ref="421126457"/>
+    <nd ref="421126460"/>
+    <nd ref="421126462"/>
+    <nd ref="421126464"/>
+    <nd ref="421126438"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="building" v="yes"/>
+    <tag k="height" v="11 m"/>
+    <tag k="it:fvg:ctrn:code" v="4AED"/>
+    <tag k="it:fvg:ctrn:revision" v="1A0"/>
+    <tag k="name" v="Casa di soggiorno per anziani"/>
+    <tag k="name:fur" v="Cjarse di ricovar pai anzians"/>
+    <tag k="social_facility:for" v="senior"/>
+  </way>
+  <way id="36035052" version="3" timestamp="2013-05-26T07:36:36Z" changeset="16288535" uid="188429" user="gpstracks">
+    <center lat="46.3342075" lon="13.1380257"/>
+    <nd ref="421106091"/>
+    <nd ref="421106092"/>
+    <nd ref="421106093"/>
+    <nd ref="421106094"/>
+    <nd ref="421106095"/>
+    <nd ref="421106096"/>
+    <nd ref="421106097"/>
+    <nd ref="421106098"/>
+    <nd ref="421106100"/>
+    <nd ref="421106101"/>
+    <nd ref="421106103"/>
+    <nd ref="421106104"/>
+    <nd ref="421106091"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="building" v="yes"/>
+    <tag k="height" v="9 m"/>
+    <tag k="it:fvg:ctrn:code" v="4AED"/>
+    <tag k="it:fvg:ctrn:revision" v="1A0"/>
+    <tag k="name" v="Pio Istituto Elemosiniere"/>
+    <tag k="social_facility" v="assisted_living"/>
+  </way>
+  <way id="216681779" version="2" timestamp="2017-01-12T23:57:53Z" changeset="45120529" uid="1227619" user="Marco_T">
+    <center lat="46.2136809" lon="13.2221470"/>
+    <nd ref="2260734883"/>
+    <nd ref="2260734889"/>
+    <nd ref="2260734891"/>
+    <nd ref="2260734892"/>
+    <nd ref="2260734890"/>
+    <nd ref="2260734888"/>
+    <nd ref="2260734886"/>
+    <nd ref="2260734884"/>
+    <nd ref="2260734885"/>
+    <nd ref="2260734887"/>
+    <nd ref="2260734883"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Residenza per anziani Zaffiro"/>
+  </way>
+  <way id="36396949" version="3" timestamp="2017-02-24T19:39:39Z" changeset="46377423" uid="97922" user="damjang">
+    <center lat="45.7325374" lon="13.7045342"/>
+    <nd ref="424460411"/>
+    <nd ref="424460412"/>
+    <nd ref="424460413"/>
+    <nd ref="424460414"/>
+    <nd ref="424460415"/>
+    <nd ref="424460416"/>
+    <nd ref="424460417"/>
+    <nd ref="424460418"/>
+    <nd ref="424460411"/>
+    <tag k="addr:city" v="Sgonico / Zgonik"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:place" v="Bristie / Brišče"/>
+    <tag k="addr:postcode" v="34010"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="building" v="yes"/>
+    <tag k="capacity" v="20"/>
+    <tag k="facebook" v="https://www.facebook.com/fondazioneluchetta"/>
+    <tag k="height" v="7 m"/>
+    <tag k="it:fvg:ctrn:code" v="4AED"/>
+    <tag k="it:fvg:ctrn:revision" v="1A0"/>
+    <tag k="name" v="Casa di accoglienza della Fondazione Luchetta Ota D'Angelo Hrovatin"/>
+    <tag k="operator" v="Fondazione Luchetta Ota D'Angelo Hrovatin o.n.l.u.s."/>
+    <tag k="social_facility" v="group_home"/>
+    <tag k="social_facility:for" v="child"/>
+    <tag k="website" v="http://fondazioneluchetta.eu/"/>
+  </way>
+  <way id="783180334" version="1" timestamp="2020-03-20T21:58:59Z" changeset="82448270" uid="97922" user="damjang">
+    <center lat="45.7151638" lon="13.7262285"/>
+    <nd ref="7313894520"/>
+    <nd ref="7313911519"/>
+    <nd ref="7313911527"/>
+    <nd ref="7313894518"/>
+    <nd ref="7313911520"/>
+    <nd ref="7313911523"/>
+    <nd ref="7313894517"/>
+    <nd ref="7313933551"/>
+    <nd ref="7313933554"/>
+    <nd ref="7313933557"/>
+    <nd ref="7313933555"/>
+    <nd ref="7313933556"/>
+    <nd ref="7313933558"/>
+    <nd ref="7313933559"/>
+    <nd ref="7313933560"/>
+    <nd ref="7313894516"/>
+    <nd ref="2575929841"/>
+    <nd ref="2575929840"/>
+    <nd ref="7313894521"/>
+    <nd ref="7313911528"/>
+    <nd ref="7313911526"/>
+    <nd ref="7313894520"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="email" v="info@lafontefvg.it"/>
+    <tag k="name" v="La Fonte - Comunità Famiglia Onlus / Izvir - Skupnost družina Onlus"/>
+    <tag k="name:it" v="La Fonte - Comunità Famiglia Onlus"/>
+    <tag k="name:sl" v="Izvir - Skupnost družina Onlus"/>
+    <tag k="operator" v="Associazione La Fonte Comunità Famiglia Onlus"/>
+    <tag k="phone" v="+39 040 225923"/>
+    <tag k="ref:vatin" v="IT01166540326"/>
+    <tag k="social_facility" v="assisted_living"/>
+    <tag k="social_facility:for" v="senior"/>
+    <tag k="website" v="http://www.lafontefvg.it/"/>
+  </way>
+  <way id="36414274" version="2" timestamp="2016-06-28T19:41:47Z" changeset="40351476" uid="3491884" user="MatteoLeoni">
+    <center lat="45.6469721" lon="13.7883889"/>
+    <nd ref="424625429"/>
+    <nd ref="424625430"/>
+    <nd ref="424625431"/>
+    <nd ref="424625432"/>
+    <nd ref="424625433"/>
+    <nd ref="4270324175"/>
+    <nd ref="424625434"/>
+    <nd ref="424625435"/>
+    <nd ref="424625429"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="building" v="yes"/>
+    <tag k="height" v="9 m"/>
+    <tag k="it:fvg:ctrn:code" v="4AED"/>
+    <tag k="it:fvg:ctrn:revision" v="1A0"/>
+    <tag k="name" v="Casa di Riposo Villa Amica"/>
+    <tag k="social_facility" v="group_home"/>
+    <tag k="social_facility:for" v="senior"/>
+  </way>
+  <way id="732652050" version="2" timestamp="2019-10-09T19:30:13Z" changeset="75480224" uid="10291367" user="Piano Migliorie Stradali">
+    <center lat="45.6441932" lon="13.8192353"/>
+    <nd ref="6860643902"/>
+    <nd ref="6860643903"/>
+    <nd ref="6860643904"/>
+    <nd ref="6860643905"/>
+    <nd ref="6860643906"/>
+    <nd ref="6860643907"/>
+    <nd ref="6860643908"/>
+    <nd ref="6860643909"/>
+    <nd ref="6860643910"/>
+    <nd ref="6860643911"/>
+    <nd ref="6860643912"/>
+    <nd ref="6860643913"/>
+    <nd ref="6860643914"/>
+    <nd ref="6860643915"/>
+    <nd ref="6860643916"/>
+    <nd ref="6860643917"/>
+    <nd ref="6860643918"/>
+    <nd ref="6860643919"/>
+    <nd ref="6860643920"/>
+    <nd ref="6860643921"/>
+    <nd ref="6860643922"/>
+    <nd ref="6860643923"/>
+    <nd ref="6860643898"/>
+    <nd ref="6860643899"/>
+    <nd ref="6860643900"/>
+    <nd ref="6860643901"/>
+    <nd ref="6860643930"/>
+    <nd ref="6860643927"/>
+    <nd ref="6860643929"/>
+    <nd ref="6860643924"/>
+    <nd ref="6860643925"/>
+    <nd ref="6860643926"/>
+    <nd ref="6860643902"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="layer" v="-1"/>
+    <tag k="social_facility" v="group_home"/>
+    <tag k="social_facility:for" v="senior"/>
+  </way>
+  <way id="36658346" version="4" timestamp="2020-01-20T20:14:16Z" changeset="79816178" uid="97922" user="damjang">
+    <center lat="45.6887717" lon="13.7845863"/>
+    <nd ref="426274146"/>
+    <nd ref="426274147"/>
+    <nd ref="3241178603"/>
+    <nd ref="3241178607"/>
+    <nd ref="426274148"/>
+    <nd ref="426274149"/>
+    <nd ref="426274146"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="building" v="yes"/>
+    <tag k="email" v="ricreatorio_fondasavio@comune.trieste.it"/>
+    <tag k="it:fvg:ctrn:code" v="4AEC"/>
+    <tag k="it:fvg:ctrn:revision" v="1AN"/>
+    <tag k="name" v="Ricreatorio comunale Fonda Savio"/>
+    <tag k="phone" v="+39 040 2158062"/>
+    <tag k="social_facility:for" v="child"/>
+  </way>
+  <way id="36398905" version="2" timestamp="2020-07-21T08:38:24Z" changeset="88284755" uid="11293545" user="Massimiliano Danieletto PCR FVG">
+    <center lat="45.6888075" lon="13.7947145"/>
+    <nd ref="424477772"/>
+    <nd ref="424477773"/>
+    <nd ref="424477774"/>
+    <nd ref="424477775"/>
+    <nd ref="424477776"/>
+    <nd ref="424477777"/>
+    <nd ref="424477778"/>
+    <nd ref="424477779"/>
+    <nd ref="424477780"/>
+    <nd ref="424477781"/>
+    <nd ref="424477782"/>
+    <nd ref="424477783"/>
+    <nd ref="424477784"/>
+    <nd ref="424477785"/>
+    <nd ref="424477786"/>
+    <nd ref="424477787"/>
+    <nd ref="424477772"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="building" v="yes"/>
+    <tag k="height" v="9 m"/>
+    <tag k="it:fvg:ctrn:code" v="4AED"/>
+    <tag k="it:fvg:ctrn:revision" v="1AN"/>
+    <tag k="name" v="Residenza polifunzionale Villa Sissi"/>
+    <tag k="social_facility" v="group_home"/>
+    <tag k="social_facility:for" v="senior"/>
+  </way>
+  <way id="36406178" version="7" timestamp="2020-05-05T10:00:10Z" changeset="84683875" uid="6631989" user="ordnassela-trieste">
+    <center lat="45.6588553" lon="13.8426037"/>
+    <nd ref="424542830"/>
+    <nd ref="424542831"/>
+    <nd ref="424542832"/>
+    <nd ref="424542833"/>
+    <nd ref="424542834"/>
+    <nd ref="424542835"/>
+    <nd ref="424542836"/>
+    <nd ref="424542837"/>
+    <nd ref="424542838"/>
+    <nd ref="424542839"/>
+    <nd ref="424542840"/>
+    <nd ref="424542841"/>
+    <nd ref="424542842"/>
+    <nd ref="424542843"/>
+    <nd ref="424542844"/>
+    <nd ref="424542845"/>
+    <nd ref="424542846"/>
+    <nd ref="424542847"/>
+    <nd ref="424542848"/>
+    <nd ref="424542849"/>
+    <nd ref="424542850"/>
+    <nd ref="424542851"/>
+    <nd ref="424542852"/>
+    <nd ref="424542853"/>
+    <nd ref="424542854"/>
+    <nd ref="424542855"/>
+    <nd ref="424542856"/>
+    <nd ref="424542857"/>
+    <nd ref="424542858"/>
+    <nd ref="424542860"/>
+    <nd ref="424542861"/>
+    <nd ref="424542830"/>
+    <tag k="addr:city" v="Trieste"/>
+    <tag k="addr:housenumber" v="199"/>
+    <tag k="addr:place" v="Padriciano / Padriče"/>
+    <tag k="addr:postcode" v="34149"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="building" v="yes"/>
+    <tag k="fax" v="+39 040 226849"/>
+    <tag k="height" v="9 m"/>
+    <tag k="it:fvg:ctrn:code" v="4AED"/>
+    <tag k="it:fvg:ctrn:revision" v="1A0"/>
+    <tag k="name" v="Casa di riposo Livia Ieralla"/>
+    <tag k="phone" v="+39 040 226260"/>
+    <tag k="social_facility" v="nursing_home"/>
+    <tag k="social_facility:for" v="senior"/>
+  </way>
+  <way id="36380813" version="2" timestamp="2019-12-08T16:22:00Z" changeset="78113028" uid="684800" user="fabiotofy">
+    <center lat="45.8905379" lon="13.5019749"/>
+    <nd ref="424279845"/>
+    <nd ref="424279846"/>
+    <nd ref="424279847"/>
+    <nd ref="424279848"/>
+    <nd ref="424279849"/>
+    <nd ref="424279850"/>
+    <nd ref="424279851"/>
+    <nd ref="424279852"/>
+    <nd ref="424279853"/>
+    <nd ref="424279854"/>
+    <nd ref="424279855"/>
+    <nd ref="424279856"/>
+    <nd ref="424279857"/>
+    <nd ref="424279858"/>
+    <nd ref="424279859"/>
+    <nd ref="424279860"/>
+    <nd ref="424279861"/>
+    <nd ref="424279862"/>
+    <nd ref="424279845"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="building" v="yes"/>
+    <tag k="height" v="9 m"/>
+    <tag k="it:fvg:ctrn:code" v="4AED"/>
+    <tag k="it:fvg:ctrn:revision" v="1A0"/>
+    <tag k="name" v="Casa di Riposo San Salvatore"/>
+    <tag k="social_facility" v="group_home"/>
+    <tag k="social_facility:for" v="senior"/>
+  </way>
+  <way id="36695154" version="2" timestamp="2020-04-08T21:22:21Z" changeset="83272515" uid="97922" user="damjang">
+    <center lat="45.7669655" lon="13.6415363"/>
+    <nd ref="426568777"/>
+    <nd ref="426568779"/>
+    <nd ref="426568782"/>
+    <nd ref="426568783"/>
+    <nd ref="426568785"/>
+    <nd ref="426568787"/>
+    <nd ref="7383304271"/>
+    <nd ref="426568790"/>
+    <nd ref="426568792"/>
+    <nd ref="426568794"/>
+    <nd ref="7383254466"/>
+    <nd ref="426568797"/>
+    <nd ref="426568799"/>
+    <nd ref="426568800"/>
+    <nd ref="426568802"/>
+    <nd ref="426568803"/>
+    <nd ref="426568805"/>
+    <nd ref="426568808"/>
+    <nd ref="426568810"/>
+    <nd ref="7383254471"/>
+    <nd ref="426568813"/>
+    <nd ref="426568816"/>
+    <nd ref="426568818"/>
+    <nd ref="426568820"/>
+    <nd ref="426568822"/>
+    <nd ref="426568824"/>
+    <nd ref="426568826"/>
+    <nd ref="426568828"/>
+    <nd ref="426568830"/>
+    <nd ref="426568831"/>
+    <nd ref="426568835"/>
+    <nd ref="426568838"/>
+    <nd ref="426568841"/>
+    <nd ref="426568843"/>
+    <nd ref="426568846"/>
+    <nd ref="426568849"/>
+    <nd ref="426568850"/>
+    <nd ref="426568777"/>
+    <tag k="addr:city" v="Duino Aurisina / Devin - Nabrežina"/>
+    <tag k="addr:housenumber" v="132"/>
+    <tag k="addr:place" v="Sistiana / Sesljan"/>
+    <tag k="addr:postcode" v="34011"/>
+    <tag k="alt_name" v="Casa di riposo F.lli Stuparich"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="building" v="yes"/>
+    <tag k="facebook" v="https://www.facebook.com/CDRStuparich/"/>
+    <tag k="height" v="10 m"/>
+    <tag k="it:fvg:ctrn:code" v="4AED"/>
+    <tag k="it:fvg:ctrn:revision" v="1A0"/>
+    <tag k="name" v="Casa di riposo Giani e Carlo Stuparich"/>
+    <tag k="operator" v="Comune di Duino Aurisina / Občina Devin - Nabrežina"/>
+    <tag k="phone" v="+39 040 2017462"/>
+    <tag k="social_facility" v="nursing_home"/>
+    <tag k="social_facility:for" v="senior"/>
+  </way>
+  <way id="36394557" version="6" timestamp="2020-06-09T12:37:40Z" changeset="86409229" uid="361003" user="Cascafico">
+    <center lat="45.7503908" lon="13.6859253"/>
+    <nd ref="424438222"/>
+    <nd ref="424438223"/>
+    <nd ref="424438224"/>
+    <nd ref="3908599478"/>
+    <nd ref="424438225"/>
+    <nd ref="424438226"/>
+    <nd ref="424438227"/>
+    <nd ref="424438228"/>
+    <nd ref="424438229"/>
+    <nd ref="424438230"/>
+    <nd ref="424438231"/>
+    <nd ref="424438232"/>
+    <nd ref="424438233"/>
+    <nd ref="424438234"/>
+    <nd ref="424438235"/>
+    <nd ref="424438236"/>
+    <nd ref="424438237"/>
+    <nd ref="424438238"/>
+    <nd ref="424438239"/>
+    <nd ref="424438240"/>
+    <nd ref="424438241"/>
+    <nd ref="424438242"/>
+    <nd ref="424438243"/>
+    <nd ref="424438244"/>
+    <nd ref="424438245"/>
+    <nd ref="424438222"/>
+    <tag k="addr:city" v="Duino Aurisina / Devin - Nabrežina"/>
+    <tag k="addr:housenumber" v="26a"/>
+    <tag k="addr:place" v="Aurisina Stazione / Nabrežina Postaja"/>
+    <tag k="addr:postcode" v="34011"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="building" v="yes"/>
+    <tag k="email" v="fiori@pinetadelcarso.it"/>
+    <tag k="fax" v="+39 040 3784313"/>
+    <tag k="height" v="9 m"/>
+    <tag k="it:fvg:ctrn:code" v="4AED"/>
+    <tag k="it:fvg:ctrn:revision" v="1AN"/>
+    <tag k="name" v="Fiori del Carso"/>
+    <tag k="operator" v="Fiori del Carso S.r.l."/>
+    <tag k="phone" v="+39 040 3784300"/>
+    <tag k="ref:vatin" v="IT00316380328"/>
+    <tag k="social_facility" v="group_home"/>
+    <tag k="social_facility:for" v="senior"/>
+    <tag k="website" v="https://www.casadiriposofioridelcarso.com/"/>
+  </way>
+  <way id="36162734" version="3" timestamp="2020-12-04T11:17:02Z" changeset="95290164" uid="361003" user="Cascafico">
+    <center lat="46.1291367" lon="13.4884701"/>
+    <nd ref="422209790"/>
+    <nd ref="422209791"/>
+    <nd ref="422209792"/>
+    <nd ref="422209793"/>
+    <nd ref="422209794"/>
+    <nd ref="422209795"/>
+    <nd ref="422209796"/>
+    <nd ref="422209797"/>
+    <nd ref="422209798"/>
+    <nd ref="422209799"/>
+    <nd ref="422209800"/>
+    <nd ref="422209801"/>
+    <nd ref="422209802"/>
+    <nd ref="422209803"/>
+    <nd ref="422209804"/>
+    <nd ref="422209805"/>
+    <nd ref="422209806"/>
+    <nd ref="422209807"/>
+    <nd ref="422209808"/>
+    <nd ref="422209809"/>
+    <nd ref="422209810"/>
+    <nd ref="422209811"/>
+    <nd ref="422209812"/>
+    <nd ref="422209813"/>
+    <nd ref="422209814"/>
+    <nd ref="422209815"/>
+    <nd ref="422209816"/>
+    <nd ref="422209817"/>
+    <nd ref="422209818"/>
+    <nd ref="422209819"/>
+    <nd ref="422209820"/>
+    <nd ref="422209821"/>
+    <nd ref="422209822"/>
+    <nd ref="422209823"/>
+    <nd ref="422209824"/>
+    <nd ref="422209825"/>
+    <nd ref="422209826"/>
+    <nd ref="422209790"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="building" v="yes"/>
+    <tag k="capacity" v="60"/>
+    <tag k="capacity:disabled" v="58"/>
+    <tag k="description" v="Residenza ad utenza diversificata pubblica ASP convenzionata con SSR"/>
+    <tag k="email" v="aspsirch@legalmail.it"/>
+    <tag k="fax" v="+39 0432 727013"/>
+    <tag k="height" v="11 m"/>
+    <tag k="it:fvg:ctrn:code" v="4AED"/>
+    <tag k="it:fvg:ctrn:revision" v="1A0"/>
+    <tag k="name" v="ASP Casa di riposo Giuseppe Sirch"/>
+    <tag k="operator" v="ASP Casa di riposo Giuseppe Sirch"/>
+    <tag k="phone" v="+39 0432 727013"/>
+    <tag k="social_facility:for" v="senior"/>
+  </way>
+  <relation id="2975156" version="4" timestamp="2017-04-18T22:28:08Z" changeset="47920470" uid="281699" user="hobbie">
+    <center lat="45.9089608" lon="12.8575397"/>
+    <member type="way" ref="224095612" role="perimeter"/>
+    <member type="way" ref="36276947" role=""/>
+    <member type="way" ref="36276946" role=""/>
+    <member type="way" ref="36277787" role=""/>
+    <member type="way" ref="487845751" role=""/>
+    <member type="way" ref="487845752" role=""/>
+    <member type="way" ref="487845754" role=""/>
+    <member type="way" ref="487845753" role=""/>
+    <member type="way" ref="36276949" role=""/>
+    <member type="node" ref="2329292385" role="entrance"/>
+    <member type="node" ref="2329292381" role="entrance"/>
+    <member type="node" ref="2329292365" role="entrance"/>
+    <member type="node" ref="2329292363" role="entrance"/>
+    <member type="node" ref="2329292379" role="label"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="name" v="Casa di Riposo dei Santi Vito Modesto e Crescenzia"/>
+    <tag k="type" v="site"/>
+  </relation>
+  <relation id="159840" version="3" timestamp="2019-05-01T19:16:26Z" changeset="69779190" uid="188429" user="gpstracks">
+    <center lat="46.0159764" lon="13.3005302"/>
+    <member type="way" ref="36435501" role="outer"/>
+    <member type="way" ref="36435502" role="inner"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="building" v="yes"/>
+    <tag k="height" v="11 m"/>
+    <tag k="it:fvg:ctrn:code" v="4AED"/>
+    <tag k="name" v="Villa Emilia Muner - De Giudici"/>
+    <tag k="social_facility" v="nursing_home"/>
+    <tag k="social_facility:for" v="senior"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="159865" version="7" timestamp="2019-11-02T15:09:43Z" changeset="76530126" uid="9066018" user="ClaudioDiodato">
+    <center lat="46.0701814" lon="13.2125838"/>
+    <member type="way" ref="36435563" role="outer"/>
+    <member type="way" ref="36435564" role="inner"/>
+    <tag k="addr:city" v="Udine"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="33100"/>
+    <tag k="addr:street" v="Piazza Libia"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="3"/>
+    <tag k="description" v="http://www.piergiorgio.org/La Comunità Piergiorgio è una ONLUS che persegue esclusivamente finalità di solidarietà sociale e si propone lo sviluppo integrale delle persone portatrici di handicap."/>
+    <tag k="height" v="14 m"/>
+    <tag k="it:fvg:ctrn:code" v="4AED"/>
+    <tag k="name" v="Comunità Piergiorgio"/>
+    <tag k="office" v="ngo"/>
+    <tag k="operator" v="Comunità Piergiorgio Onlus"/>
+    <tag k="operator:type" v="community"/>
+    <tag k="social_facility" v="nursing_home"/>
+    <tag k="social_facility:for" v="senior"/>
+    <tag k="type" v="multipolygon"/>
+    <tag k="wheelchair" v="yes"/>
+  </relation>
+  <relation id="160234" version="3" timestamp="2020-05-01T14:06:31Z" changeset="84474667" uid="10474167" user="spigo_de_ajo">
+    <center lat="45.6465471" lon="13.7846793"/>
+    <member type="way" ref="36436665" role="outer"/>
+    <member type="way" ref="36436666" role="inner"/>
+    <member type="way" ref="36436667" role="inner"/>
+    <member type="way" ref="36436668" role="inner"/>
+    <member type="way" ref="36436669" role="inner"/>
+    <member type="way" ref="36436670" role="inner"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="building" v="yes"/>
+    <tag k="height" v="18 m"/>
+    <tag k="it:fvg:ctrn:code" v="4AED"/>
+    <tag k="name" v="ITIS"/>
+    <tag k="social_facility" v="group_home"/>
+    <tag k="social_facility:for" v="senior"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="160393" version="3" timestamp="2020-05-02T17:55:47Z" changeset="84531594" uid="6631989" user="ordnassela-trieste">
+    <center lat="45.6627449" lon="13.8070480"/>
+    <member type="way" ref="36437488" role="outer"/>
+    <member type="way" ref="36437489" role="inner"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="building" v="yes"/>
+    <tag k="height" v="9 m"/>
+    <tag k="it:fvg:ctrn:code" v="4AED"/>
+    <tag k="name" v="Casa Fiorita"/>
+    <tag k="social_facility" v="nursing_home"/>
+    <tag k="social_facility:for" v="senior"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="159481" version="3" timestamp="2017-08-14T08:00:55Z" changeset="51101893" uid="6321793" user="AM311">
+    <center lat="45.8014819" lon="13.5234342"/>
+    <member type="way" ref="36434390" role="outer"/>
+    <member type="way" ref="36434391" role="inner"/>
+    <tag k="addr:city" v="Monfalcone"/>
+    <tag k="addr:postcode" v="34074"/>
+    <tag k="addr:street" v="Via della Crociera"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Centro Polivalente Casa Albergo"/>
+    <tag k="operator" v="Comune di Monfalcone"/>
+    <tag k="social_facility" v="group_home"/>
+    <tag k="social_facility:for" v="senior"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+  <relation id="159815" version="4" timestamp="2020-07-06T12:37:36Z" changeset="87601195" uid="361003" user="Cascafico">
+    <center lat="46.0865589" lon="13.4344184"/>
+    <member type="way" ref="36435434" role="inner"/>
+    <member type="way" ref="36435435" role="inner"/>
+    <member type="way" ref="36435436" role="inner"/>
+    <member type="way" ref="36435433" role="outer"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="building" v="yes"/>
+    <tag k="capacity" v="251"/>
+    <tag k="contact:phone" v="+39 0432 731048"/>
+    <tag k="height" v="15 m"/>
+    <tag k="it:fvg:ctrn:code" v="4AED"/>
+    <tag k="name" v="ASP - Casa per Anziani Cividale"/>
+    <tag k="operator" v="Comune di Cividale del Friuli"/>
+    <tag k="social_facility" v="group_home"/>
+    <tag k="social_facility:for" v="senior"/>
+    <tag k="type" v="multipolygon"/>
+  </relation>
+
+</osm>

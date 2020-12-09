@@ -1,0 +1,17 @@
+{
+      "id"  : {{(cells["id"].value)}},
+      "lat" : {{(cells["lat"].value)}},
+      "lon" : {{(cells["lon"].value)}},
+      "tags" : {    
+         "name" : {{jsonize(cells["Denominazione_struttura"].value)}},
+         "operator" : {{jsonize(cells["operator"].value)}},
+         "phone" : {{jsonize(cells["Telefono"].value)}},
+         "fax" : {{jsonize(cells["Fax"].value)}},
+         "email" : {{jsonize(cells["Email"].value)}},
+         "description" : {{jsonize(cells["description"].value)}},
+         "capacity" : {{jsonize(cells["capacity"].value)}},
+         "capacity:disabled" : {{jsonize(cells["capacity:disabled"].value)}},
+         "social_facility:for" : {{jsonize(cells["social_facility:for"].value)}},
+         "social_facility" : {{jsonize(cells["social_facility"].value)}}
+         }
+}
